@@ -1,34 +1,34 @@
 ch_title,en_title,ref_num,feature_class
-道,circuit,6306,administrative divisions and settlement
-路,route,3839,administrative divisions and settlement
-省,province,5176,administrative divisions and settlement
-府,prefecture,2034,administrative divisions and settlement
-州,department,1332,administrative divisions and settlement
-縣,county,2492,administrative divisions and settlement
-郡,commandery,1731,administrative divisions and settlement
-鄉,township,2304,administrative divisions and settlement
-鎮,town,372,administrative divisions and settlement
-村,village,7074,administrative divisions and settlement
-廳,bureau,6748,administrative divisions and settlement
-軍,commandery,1730; 1731,administrative divisions and settlement
-城,walled settlement,458,administrative divisions and settlement
-堡,fortress,not mentioned,administrative divisions and settlement
-關,customs house,3263,administrative divisions and settlement
-鋪,post station,4816,administrative divisions and settlement
-營,encampment,8009,administrative divisions and settlement
-站,military post,74,administrative divisions and settlement
-驛,stage station,2926; 2927,administrative divisions and settlement
-廟,temple,3980,administrative divisions and settlement
-宮,palace,3389,administrative divisions and settlement
-邑,fief,2925,administrative divisions and settlement
-集,community,not mentioned,administrative divisions and settlement
-寨,stockade,58,administrative divisions and settlement
-亭,neighborhood,6747,administrative divisions and settlement
-國,state,3504,administrative divisions and settlement
-屯,encampment,7404,administrative divisions and settlement
-苑,park,8220,administrative divisions and settlement
-寺,temple,5534,administrative divisions and settlement
-莊,manor,not mentioned,administrative divisions and settlement
+道,circuit,6306,administrative units
+路,route,3839,administrative units
+省,province,5176,administrative units
+府,prefecture,2034,administrative units
+州,department,1332,administrative units
+縣,county,2492,administrative units
+郡,commandery,1731,habitations
+鄉,township,2304,habitations
+鎮,town,372,habitations
+村,village,7074,habitations
+廳,bureau,6748,habitations
+軍,commandery,1730; 1731,habitations
+城,walled settlement,458,habitations
+堡,fortress,not mentioned,habitations
+關,customs house,3263,habitations
+鋪,post station,4816,habitations
+營,encampment,8009,habitations
+站,military post,74,habitations
+驛,stage station,2926; 2927,habitations
+廟,temple,3980,habitations
+宮,palace,3389,habitations
+邑,fief,2925,habitations
+集,community,not mentioned,habitations
+寨,stockade,58,habitations
+亭,neighborhood,6747,habitations
+國,state,3504,habitations
+屯,encampment,7404,habitations
+苑,park,8220,habitations
+寺,temple,5534,habitations
+莊,manor,not mentioned,habitations
 山,mountain,4952,natural feature
 河,river,not mentioned,natural feature
 口,estuary,not mentioned,natural feature
