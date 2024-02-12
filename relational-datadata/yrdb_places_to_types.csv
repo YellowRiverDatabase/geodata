@@ -1,0 +1,3450 @@
+yrdb_id,ft_id
+yrdb1,town
+yrdb2,river
+yrdb3,village
+yrdb6,town
+yrdb7,encampment
+yrdb8,not specified
+yrdb9,not specified
+yrdb10,not specified
+yrdb11,embarkment
+yrdb12,route
+yrdb13,commandery
+yrdb14,route
+yrdb16,prefecture
+yrdb17,town
+yrdb18,county
+yrdb20,not specified
+yrdb21,route
+yrdb22,walled settlement
+yrdb23,town
+yrdb24,county
+yrdb25,prefecture
+yrdb26,encampment
+yrdb27,fortress
+yrdb28,not specified
+yrdb29,town
+yrdb30,not specified
+yrdb31,town
+yrdb32,not specified
+yrdb34,county
+yrdb36,walled settlement
+yrdb37,village
+yrdb38,temple
+yrdb39,prefecture
+yrdb40,walled settlement
+yrdb41,county
+yrdb43,county
+yrdb44,estuary
+yrdb45,not specified
+yrdb46,not specified
+yrdb47,river
+yrdb48,river
+yrdb49,not specified
+yrdb53,encampment
+yrdb54,town
+yrdb55,walled settlement
+yrdb56,mountain
+yrdb57,river
+yrdb58,town
+yrdb59,fortress
+yrdb60,encampment
+yrdb61,community
+yrdb62,manor
+yrdb63,not specified
+yrdb64,walled settlement
+yrdb66,flat
+yrdb67,not specified
+yrdb68,stockade
+yrdb69,not specified
+yrdb70,not specified
+yrdb71,not specified
+yrdb72,town
+yrdb73,manor
+yrdb74,fortress
+yrdb75,not specified
+yrdb76,commandery
+yrdb77,fortress
+yrdb78,military post
+yrdb79,town
+yrdb80,commandery
+yrdb81,not specified
+yrdb82,county
+yrdb83,river valley
+yrdb84,not specified
+yrdb86,customs house
+yrdb87,estuary
+yrdb88,town
+yrdb89,town
+yrdb90,manor
+yrdb91,bay
+yrdb92,fortress
+yrdb93,town
+yrdb94,not specified
+yrdb95,county
+yrdb96,not specified
+yrdb97,not specified
+yrdb98,not specified
+yrdb99,not specified
+yrdb100,walled settlement
+yrdb101,walled settlement
+yrdb102,village
+yrdb103,town
+yrdb104,river
+yrdb105,not specified
+yrdb107,not specified
+yrdb108,not specified
+yrdb109,post station
+yrdb110,not specified
+yrdb111,fortress
+yrdb112,fortress
+yrdb113,not specified
+yrdb115,fortress
+yrdb116,not specified
+yrdb117,encampment
+yrdb118,not specified
+yrdb119,not specified
+yrdb120,estuary
+yrdb121,temple
+yrdb122,bay
+yrdb123,fortress
+yrdb124,not specified
+yrdb125,not specified
+yrdb127,not specified
+yrdb128,county
+yrdb129,customs house
+yrdb130,town
+yrdb131,canal
+yrdb133,county
+yrdb134,prefecture
+yrdb135,manor
+yrdb136,not specified
+yrdb138,military post
+yrdb139,county
+yrdb141,not specified
+yrdb142,county
+yrdb143,not specified
+yrdb144,not specified
+yrdb145,not specified
+yrdb146,walled settlement
+yrdb148,mountain
+yrdb149,town
+yrdb150,estuary
+yrdb151,not specified
+yrdb152,estuary
+yrdb153,not specified
+yrdb154,not specified
+yrdb155,commandery
+yrdb156,state
+yrdb157,prefecture
+yrdb158,department
+yrdb159,town
+yrdb160,customs house
+yrdb161,fortress
+yrdb162,not specified
+yrdb163,not specified
+yrdb164,not specified
+yrdb166,county
+yrdb167,route
+yrdb168,department
+yrdb169,county
+yrdb171,town
+yrdb172,fortress
+yrdb173,province
+yrdb174,county
+yrdb175,not specified
+yrdb176,not specified
+yrdb178,ferry crossing
+yrdb179,county
+yrdb180,ford
+yrdb181,village
+yrdb182,town
+yrdb183,town
+yrdb184,village
+yrdb185,estuary
+yrdb186,fortress
+yrdb187,manor
+yrdb188,town
+yrdb189,town
+yrdb190,fortress
+yrdb191,fortress
+yrdb192,customs house
+yrdb193,prefecture
+yrdb194,not specified
+yrdb195,not specified
+yrdb196,manor
+yrdb197,neighborhood
+yrdb198,town
+yrdb199,department
+yrdb200,county
+yrdb201,prefecture
+yrdb202,not specified
+yrdb203,mountain
+yrdb205,customs house
+yrdb207,not specified
+yrdb208,not specified
+yrdb209,river
+yrdb210,neighborhood
+yrdb211,not specified
+yrdb212,estuary
+yrdb213,estuary
+yrdb214,estuary
+yrdb215,manor
+yrdb216,not specified
+yrdb217,manor
+yrdb218,stockade
+yrdb219,village
+yrdb220,not specified
+yrdb221,village
+yrdb222,not specified
+yrdb223,not specified
+yrdb224,department
+yrdb225,route
+yrdb226,fortress
+yrdb227,fortress
+yrdb228,ford
+yrdb230,not specified
+yrdb231,stockade
+yrdb232,neighborhood
+yrdb233,not specified
+yrdb234,not specified
+yrdb235,stockade
+yrdb236,township
+yrdb237,not specified
+yrdb239,town
+yrdb240,not specified
+yrdb241,village
+yrdb242,not specified
+yrdb243,town
+yrdb244,bureau
+yrdb245,walled settlement
+yrdb246,not specified
+yrdb248,ferry crossing
+yrdb249,not specified
+yrdb251,not specified
+yrdb252,estuary
+yrdb254,mountain
+yrdb255,encampment
+yrdb256,estuary
+yrdb257,fortress
+yrdb258,not specified
+yrdb259,commandery
+yrdb260,river
+yrdb261,fortress
+yrdb262,fortress
+yrdb263,town
+yrdb264,town
+yrdb265,not specified
+yrdb266,bay
+yrdb267,town
+yrdb268,fortress
+yrdb269,fortress
+yrdb270,estuary
+yrdb271,fortress
+yrdb272,bridge
+yrdb273,fortress
+yrdb274,fortress
+yrdb275,encampment
+yrdb276,post station
+yrdb277,fortress
+yrdb278,fortress
+yrdb279,creek
+yrdb280,town
+yrdb281,not specified
+yrdb282,fortress
+yrdb283,post station
+yrdb284,mudflat
+yrdb285,not specified
+yrdb286,not specified
+yrdb288,fortress
+yrdb289,neighborhood
+yrdb290,not specified
+yrdb291,department
+yrdb292,not specified
+yrdb293,ditch
+yrdb295,neighborhood
+yrdb296,customs house
+yrdb297,ridge
+yrdb298,mountain
+yrdb299,department
+yrdb300,not specified
+yrdb302,walled settlement
+yrdb303,not specified
+yrdb305,manor
+yrdb306,county
+yrdb308,estuary
+yrdb309,manor
+yrdb310,not specified
+yrdb311,department
+yrdb312,county
+yrdb313,estuary
+yrdb314,not specified
+yrdb315,route
+yrdb316,stockade
+yrdb317,customs house
+yrdb318,department
+yrdb319,county
+yrdb320,fortress
+yrdb322,palace
+yrdb323,not specified
+yrdb325,encampment
+yrdb326,walled settlement
+yrdb327,route
+yrdb328,village
+yrdb330,fortress
+yrdb331,stockade
+yrdb332,dike
+yrdb333,bureau
+yrdb334,stockade
+yrdb335,not specified
+yrdb336,river
+yrdb337,village
+yrdb338,not specified
+yrdb339,not specified
+yrdb340,department
+yrdb341,prefecture
+yrdb342,not specified
+yrdb343,village
+yrdb345,subprefecture
+yrdb346,not specified
+yrdb347,town
+yrdb348,not specified
+yrdb349,department
+yrdb350,county
+yrdb351,park
+yrdb352,not specified
+yrdb353,temple
+yrdb354,not specified
+yrdb355,not specified
+yrdb356,dike
+yrdb357,customs house
+yrdb358,mountain
+yrdb359,not specified
+yrdb360,county
+yrdb361,department
+yrdb362,river
+yrdb363,county
+yrdb364,prefecture
+yrdb365,route
+yrdb366,county
+yrdb367,county
+yrdb368,walled settlement
+yrdb369,county
+yrdb370,not specified
+yrdb371,town
+yrdb372,not specified
+yrdb373,not specified
+yrdb374,township
+yrdb375,neighborhood
+yrdb376,military post
+yrdb378,village
+yrdb379,not specified
+yrdb380,county
+yrdb381,not specified
+yrdb382,town
+yrdb383,not specified
+yrdb384,fortress
+yrdb385,community
+yrdb386,fortress
+yrdb387,fortress
+yrdb388,bay
+yrdb389,town
+yrdb390,county
+yrdb392,not specified
+yrdb393,estuary
+yrdb394,not specified
+yrdb395,manor
+yrdb396,village
+yrdb397,estuary
+yrdb398,walled settlement
+yrdb400,not specified
+yrdb401,fortress
+yrdb402,town
+yrdb403,stage station
+yrdb404,town
+yrdb405,department
+yrdb406,town
+yrdb407,not specified
+yrdb408,not specified
+yrdb409,manor
+yrdb410,stage station
+yrdb411,fortress
+yrdb412,encampment
+yrdb413,park
+yrdb414,department
+yrdb415,manor
+yrdb416,walled settlement
+yrdb417,fortress
+yrdb418,not specified
+yrdb419,not specified
+yrdb420,county
+yrdb421,town
+yrdb422,village
+yrdb423,estuary
+yrdb424,department
+yrdb425,not specified
+yrdb426,department
+yrdb427,walled settlement
+yrdb428,military post
+yrdb429,county
+yrdb430,river
+yrdb431,manor
+yrdb432,not specified
+yrdb433,estuary
+yrdb434,not specified
+yrdb435,village
+yrdb436,walled settlement
+yrdb437,not specified
+yrdb438,ford
+yrdb442,walled settlement
+yrdb443,county
+yrdb444,manor
+yrdb445,not specified
+yrdb446,stockade
+yrdb447,manor
+yrdb448,community
+yrdb449,mountain
+yrdb450,fortress
+yrdb451,town
+yrdb452,town
+yrdb453,bridge
+yrdb454,stockade
+yrdb455,estuary
+yrdb456,not specified
+yrdb457,not specified
+yrdb458,not specified
+yrdb459,river valley
+yrdb460,not specified
+yrdb461,not specified
+yrdb462,bridge
+yrdb463,not specified
+yrdb464,not specified
+yrdb465,county
+yrdb466,city
+yrdb469,not specified
+yrdb470,not specified
+yrdb471,not specified
+yrdb472,creek
+yrdb473,department
+yrdb474,stage station
+yrdb475,customs house
+yrdb477,not specified
+yrdb478,stockade
+yrdb479,not specified
+yrdb480,not specified
+yrdb481,fortress
+yrdb482,town
+yrdb483,not specified
+yrdb484,not specified
+yrdb485,walled settlement
+yrdb486,fortress
+yrdb487,bay
+yrdb488,department
+yrdb489,canal
+yrdb490,creek
+yrdb491,not specified
+yrdb493,county
+yrdb495,county
+yrdb496,river
+yrdb497,not specified
+yrdb498,embarkment
+yrdb499,bureau
+yrdb501,not specified
+yrdb502,creek
+yrdb503,encampment
+yrdb504,county
+yrdb505,not specified
+yrdb506,post station
+yrdb507,village
+yrdb508,embarkment
+yrdb509,fortress
+yrdb510,creek
+yrdb511,not specified
+yrdb512,not specified
+yrdb513,department
+yrdb514,town
+yrdb515,estuary
+yrdb516,ditch
+yrdb517,not specified
+yrdb518,not specified
+yrdb519,county
+yrdb520,walled settlement
+yrdb521,town
+yrdb522,temple
+yrdb523,town
+yrdb524,fortress
+yrdb525,town
+yrdb526,stage station
+yrdb527,customs house
+yrdb528,town
+yrdb529,town
+yrdb530,lake
+yrdb531,township
+yrdb532,mound
+yrdb534,not specified
+yrdb535,walled settlement
+yrdb536,not specified
+yrdb537,stockade
+yrdb538,town
+yrdb539,not specified
+yrdb540,stockade
+yrdb541,not specified
+yrdb542,bridge
+yrdb543,town
+yrdb544,manor
+yrdb545,not specified
+yrdb546,department
+yrdb547,department
+yrdb548,town
+yrdb549,temple
+yrdb550,not specified
+yrdb551,community
+yrdb552,estuary
+yrdb553,township
+yrdb554,creek
+yrdb556,county
+yrdb559,county
+yrdb560,not specified
+yrdb561,not specified
+yrdb562,community
+yrdb563,not specified
+yrdb564,estuary
+yrdb565,bay
+yrdb566,temple
+yrdb567,mountain
+yrdb568,manor
+yrdb569,not specified
+yrdb570,military post
+yrdb571,mountain
+yrdb573,town
+yrdb574,village
+yrdb575,not specified
+yrdb576,neighborhood
+yrdb577,customs house
+yrdb579,estuary
+yrdb582,department
+yrdb583,encampment
+yrdb584,estuary
+yrdb585,fortress
+yrdb586,route
+yrdb587,department
+yrdb588,town
+yrdb589,ford
+yrdb590,manor
+yrdb591,county
+yrdb592,town
+yrdb593,town
+yrdb594,walled settlement
+yrdb595,town
+yrdb596,department
+yrdb597,not specified
+yrdb598,neighborhood
+yrdb599,not specified
+yrdb600,town
+yrdb601,not specified
+yrdb602,not specified
+yrdb603,walled settlement
+yrdb604,estuary
+yrdb606,prefecture
+yrdb608,not specified
+yrdb609,embarkment
+yrdb610,fortress
+yrdb611,walled settlement
+yrdb613,county
+yrdb614,not specified
+yrdb615,commandery
+yrdb616,stockade
+yrdb617,not specified
+yrdb618,manor
+yrdb619,not specified
+yrdb620,estuary
+yrdb621,ridge
+yrdb622,town
+yrdb623,customs house
+yrdb624,town
+yrdb625,customs house
+yrdb626,not specified
+yrdb627,fortress
+yrdb628,not specified
+yrdb629,not specified
+yrdb630,river valley
+yrdb631,town
+yrdb632,fortress
+yrdb633,fortress
+yrdb634,ditch
+yrdb635,estuary
+yrdb636,river
+yrdb637,bay
+yrdb638,ridge
+yrdb639,ditch
+yrdb640,not specified
+yrdb641,not specified
+yrdb642,temple
+yrdb643,town
+yrdb645,community
+yrdb646,walled settlement
+yrdb647,town
+yrdb648,not specified
+yrdb649,not specified
+yrdb650,ridge
+yrdb651,walled settlement
+yrdb652,customs house
+yrdb653,estuary
+yrdb654,mountain
+yrdb656,town
+yrdb657,manor
+yrdb658,not specified
+yrdb659,estuary
+yrdb660,encampment
+yrdb661,not specified
+yrdb664,walled settlement
+yrdb665,stockade
+yrdb666,manor
+yrdb667,town
+yrdb668,temple
+yrdb669,river
+yrdb670,estuary
+yrdb671,customs house
+yrdb672,embarkment
+yrdb673,temple
+yrdb674,dam
+yrdb675,bridge
+yrdb676,stockade
+yrdb677,not specified
+yrdb678,bridge
+yrdb679,river
+yrdb680,not specified
+yrdb681,customs house
+yrdb682,stockade
+yrdb683,mound
+yrdb684,not specified
+yrdb685,county
+yrdb686,ridge
+yrdb688,stage station
+yrdb689,commandery
+yrdb690,estuary
+yrdb691,customs house
+yrdb692,department
+yrdb693,not specified
+yrdb694,town
+yrdb695,county
+yrdb697,town
+yrdb698,town
+yrdb699,customs house
+yrdb700,dike
+yrdb702,village
+yrdb703,temple
+yrdb704,fortress
+yrdb705,not specified
+yrdb706,encampment
+yrdb707,town
+yrdb708,not specified
+yrdb709,county
+yrdb710,county
+yrdb711,mountain
+yrdb712,not specified
+yrdb713,walled settlement
+yrdb714,village
+yrdb716,county
+yrdb717,walled settlement
+yrdb718,not specified
+yrdb719,encampment
+yrdb720,estuary
+yrdb721,bay
+yrdb722,village
+yrdb723,fortress
+yrdb724,walled settlement
+yrdb725,manor
+yrdb726,military post
+yrdb727,county
+yrdb728,fortress
+yrdb729,town
+yrdb731,fortress
+yrdb732,fortress
+yrdb733,fortress
+yrdb734,fortress
+yrdb735,manor
+yrdb736,dam
+yrdb737,temple
+yrdb738,customs house
+yrdb739,department
+yrdb740,town
+yrdb741,mountain
+yrdb742,town
+yrdb743,manor
+yrdb744,town
+yrdb745,estuary
+yrdb746,ferry crossing
+yrdb747,not specified
+yrdb748,community
+yrdb749,embarkment
+yrdb750,estuary
+yrdb751,estuary
+yrdb752,estuary
+yrdb753,town
+yrdb754,not specified
+yrdb755,not specified
+yrdb756,town
+yrdb757,manor
+yrdb758,not specified
+yrdb759,county
+yrdb760,temple
+yrdb761,estuary
+yrdb762,not specified
+yrdb763,bay
+yrdb764,department
+yrdb765,not specified
+yrdb766,county
+yrdb768,estuary
+yrdb769,ferry crossing
+yrdb771,town
+yrdb772,not specified
+yrdb773,town
+yrdb774,fortress
+yrdb775,not specified
+yrdb778,stockade
+yrdb779,not specified
+yrdb780,town
+yrdb781,county
+yrdb782,state
+yrdb783,encampment
+yrdb784,not specified
+yrdb786,fortress
+yrdb787,department
+yrdb788,county
+yrdb789,not specified
+yrdb790,fortress
+yrdb791,village
+yrdb792,walled settlement
+yrdb793,county
+yrdb794,fortress
+yrdb795,fortress
+yrdb796,not specified
+yrdb797,county
+yrdb800,not specified
+yrdb801,not specified
+yrdb802,stockade
+yrdb803,town
+yrdb804,walled settlement
+yrdb805,fortress
+yrdb806,fortress
+yrdb807,manor
+yrdb808,temple
+yrdb809,town
+yrdb810,town
+yrdb811,town
+yrdb812,province
+yrdb813,customs house
+yrdb814,county
+yrdb815,town
+yrdb816,not specified
+yrdb817,walled settlement
+yrdb818,fortress
+yrdb819,fortress
+yrdb820,fief
+yrdb821,walled settlement
+yrdb822,not specified
+yrdb823,estuary
+yrdb824,state
+yrdb826,county
+yrdb827,fortress
+yrdb828,manor
+yrdb829,bay
+yrdb830,department
+yrdb831,not specified
+yrdb832,walled settlement
+yrdb833,town
+yrdb834,town
+yrdb835,fortress
+yrdb836,town
+yrdb837,fortress
+yrdb838,not specified
+yrdb839,temple
+yrdb840,not specified
+yrdb841,not specified
+yrdb842,encampment
+yrdb844,stage station
+yrdb845,town
+yrdb846,not specified
+yrdb847,not specified
+yrdb848,not specified
+yrdb849,park
+yrdb851,county
+yrdb852,county
+yrdb853,not specified
+yrdb854,fortress
+yrdb855,not specified
+yrdb856,department
+yrdb857,not specified
+yrdb858,not specified
+yrdb859,not specified
+yrdb860,town
+yrdb861,military post
+yrdb862,bureau
+yrdb863,estuary
+yrdb864,department
+yrdb865,estuary
+yrdb866,county
+yrdb867,not specified
+yrdb868,department
+yrdb869,neighborhood
+yrdb870,fortress
+yrdb871,not specified
+yrdb873,stage station
+yrdb874,town
+yrdb875,not specified
+yrdb876,not specified
+yrdb877,military post
+yrdb878,not specified
+yrdb879,fortress
+yrdb880,town
+yrdb881,town
+yrdb882,bridge
+yrdb883,department
+yrdb884,county
+yrdb885,walled settlement
+yrdb886,mound
+yrdb889,not specified
+yrdb892,not specified
+yrdb893,river valley
+yrdb894,not specified
+yrdb895,fortress
+yrdb896,fortress
+yrdb897,embarkment
+yrdb898,county
+yrdb899,fortress
+yrdb900,manor
+yrdb901,estuary
+yrdb902,embarkment
+yrdb903,not specified
+yrdb904,community
+yrdb905,not specified
+yrdb906,customs house
+yrdb907,not specified
+yrdb908,fortress
+yrdb909,not specified
+yrdb910,river valley
+yrdb911,not specified
+yrdb912,estuary
+yrdb913,estuary
+yrdb914,bridge
+yrdb915,estuary
+yrdb916,not specified
+yrdb917,estuary
+yrdb919,dike
+yrdb920,village
+yrdb921,not specified
+yrdb922,estuary
+yrdb923,town
+yrdb924,township
+yrdb925,town
+yrdb926,town
+yrdb927,river
+yrdb928,not specified
+yrdb929,province
+yrdb930,route
+yrdb931,county
+yrdb932,bureau
+yrdb933,town
+yrdb934,town
+yrdb935,bureau
+yrdb936,province
+yrdb937,town
+yrdb938,county
+yrdb939,county
+yrdb940,mound
+yrdb941,estuary
+yrdb942,village
+yrdb943,flat
+yrdb944,department
+yrdb945,ridge
+yrdb946,town
+yrdb947,department
+yrdb948,manor
+yrdb949,department
+yrdb950,not specified
+yrdb951,not specified
+yrdb952,walled settlement
+yrdb953,department
+yrdb954,customs house
+yrdb955,town
+yrdb956,mountain
+yrdb957,estuary
+yrdb958,town
+yrdb959,embarkment
+yrdb960,temple
+yrdb961,fortress
+yrdb962,town
+yrdb963,estuary
+yrdb964,not specified
+yrdb965,dam
+yrdb966,town
+yrdb967,not specified
+yrdb968,county
+yrdb969,stream
+yrdb971,customs house
+yrdb972,temple
+yrdb973,walled settlement
+yrdb974,not specified
+yrdb975,not specified
+yrdb976,county
+yrdb977,town
+yrdb978,not specified
+yrdb979,stage station
+yrdb980,encampment
+yrdb981,mudflat
+yrdb982,mountain
+yrdb983,not specified
+yrdb984,bridge
+yrdb985,stockade
+yrdb986,military post
+yrdb987,fortress
+yrdb988,town
+yrdb989,stage station
+yrdb990,fortress
+yrdb991,dam
+yrdb992,department
+yrdb993,fortress
+yrdb994,town
+yrdb995,fortress
+yrdb996,not specified
+yrdb997,not specified
+yrdb998,customs house
+yrdb999,creek
+yrdb1000,not specified
+yrdb1001,county
+yrdb1002,county
+yrdb1003,not specified
+yrdb1004,fortress
+yrdb1005,town
+yrdb1006,town
+yrdb1007,town
+yrdb1008,not specified
+yrdb1009,not specified
+yrdb1010,customs house
+yrdb1011,fortress
+yrdb1013,military post
+yrdb1014,stage station
+yrdb1015,not specified
+yrdb1016,fortress
+yrdb1017,not specified
+yrdb1018,not specified
+yrdb1019,walled settlement
+yrdb1020,county
+yrdb1021,fief
+yrdb1022,not specified
+yrdb1023,not specified
+yrdb1025,not specified
+yrdb1027,not specified
+yrdb1028,department
+yrdb1029,walled settlement
+yrdb1030,department
+yrdb1031,temple
+yrdb1032,not specified
+yrdb1033,not specified
+yrdb1034,town
+yrdb1035,walled settlement
+yrdb1036,embarkment
+yrdb1037,mountain
+yrdb1038,not specified
+yrdb1039,manor
+yrdb1040,military post
+yrdb1041,encampment
+yrdb1042,commandery
+yrdb1043,canal
+yrdb1044,not specified
+yrdb1045,canal
+yrdb1046,not specified
+yrdb1047,not specified
+yrdb1048,route
+yrdb1049,department
+yrdb1050,not specified
+yrdb1051,not specified
+yrdb1052,county
+yrdb1053,department
+yrdb1054,military post
+yrdb1055,walled settlement
+yrdb1056,prefecture
+yrdb1057,town
+yrdb1058,temple
+yrdb1059,not specified
+yrdb1060,not specified
+yrdb1061,creek
+yrdb1062,town
+yrdb1063,town
+yrdb1064,bay
+yrdb1065,estuary
+yrdb1066,town
+yrdb1067,encampment
+yrdb1068,stockade
+yrdb1069,not specified
+yrdb1070,town
+yrdb1071,department
+yrdb1072,not specified
+yrdb1073,route
+yrdb1074,town
+yrdb1075,walled settlement
+yrdb1076,department
+yrdb1077,customs house
+yrdb1078,county
+yrdb1079,estuary
+yrdb1080,walled settlement
+yrdb1081,fortress
+yrdb1082,manor
+yrdb1083,prefecture
+yrdb1084,palace
+yrdb1085,walled settlement
+yrdb1086,not specified
+yrdb1088,county
+yrdb1089,prefecture
+yrdb1090,department
+yrdb1091,fortress
+yrdb1092,stockade
+yrdb1093,town
+yrdb1094,fortress
+yrdb1095,village
+yrdb1096,fortress
+yrdb1097,fortress
+yrdb1098,town
+yrdb1099,town
+yrdb1100,estuary
+yrdb1101,not specified
+yrdb1102,estuary
+yrdb1103,flat
+yrdb1104,encampment
+yrdb1105,creek
+yrdb1106,town
+yrdb1107,manor
+yrdb1108,not specified
+yrdb1109,not specified
+yrdb1110,bay
+yrdb1111,mudflat
+yrdb1112,route
+yrdb1113,town
+yrdb1114,estuary
+yrdb1115,town
+yrdb1116,fortress
+yrdb1117,estuary
+yrdb1118,fortress
+yrdb1119,fortress
+yrdb1120,village
+yrdb1121,town
+yrdb1122,walled settlement
+yrdb1123,not specified
+yrdb1124,town
+yrdb1125,dike
+yrdb1126,not specified
+yrdb1127,town
+yrdb1128,not specified
+yrdb1129,estuary
+yrdb1130,village
+yrdb1131,not specified
+yrdb1132,not specified
+yrdb1133,not specified
+yrdb1134,walled settlement
+yrdb1135,dike
+yrdb1136,walled settlement
+yrdb1138,not specified
+yrdb1139,prefecture
+yrdb1141,fortress
+yrdb1143,walled settlement
+yrdb1144,walled settlement
+yrdb1145,not specified
+yrdb1146,not specified
+yrdb1147,walled settlement
+yrdb1148,town
+yrdb1149,mudflat
+yrdb1150,not specified
+yrdb1151,not specified
+yrdb1152,not specified
+yrdb1153,town
+yrdb1154,state
+yrdb1155,walled settlement
+yrdb1156,estuary
+yrdb1157,manor
+yrdb1158,not specified
+yrdb1159,bay
+yrdb1160,department
+yrdb1161,ditch
+yrdb1162,estuary
+yrdb1163,fortress
+yrdb1165,town
+yrdb1166,department
+yrdb1167,county
+yrdb1168,commandery
+yrdb1169,stockade
+yrdb1170,county
+yrdb1171,commandery
+yrdb1172,department
+yrdb1173,estuary
+yrdb1175,department
+yrdb1176,walled settlement
+yrdb1177,not specified
+yrdb1181,prefecture
+yrdb1183,not specified
+yrdb1184,not specified
+yrdb1185,not specified
+yrdb1186,fortress
+yrdb1187,customs house
+yrdb1188,fortress
+yrdb1189,estuary
+yrdb1190,county
+yrdb1191,fortress
+yrdb1192,department
+yrdb1194,fortress
+yrdb1195,not specified
+yrdb1196,manor
+yrdb1197,county
+yrdb1198,not specified
+yrdb1199,not specified
+yrdb1200,walled settlement
+yrdb1202,neighborhood
+yrdb1203,department
+yrdb1204,not specified
+yrdb1205,military post
+yrdb1207,customs house
+yrdb1208,fortress
+yrdb1209,not specified
+yrdb1210,mountain
+yrdb1211,not specified
+yrdb1212,not specified
+yrdb1213,department
+yrdb1214,encampment
+yrdb1215,embarkment
+yrdb1216,village
+yrdb1217,community
+yrdb1218,not specified
+yrdb1219,mudflat
+yrdb1220,estuary
+yrdb1221,fortress
+yrdb1222,fortress
+yrdb1223,not specified
+yrdb1224,not specified
+yrdb1225,walled settlement
+yrdb1226,not specified
+yrdb1228,department
+yrdb1230,ditch
+yrdb1231,palace
+yrdb1232,not specified
+yrdb1233,not specified
+yrdb1234,walled settlement
+yrdb1235,temple
+yrdb1236,stockade
+yrdb1237,town
+yrdb1238,fortress
+yrdb1239,not specified
+yrdb1241,stockade
+yrdb1242,town
+yrdb1243,not specified
+yrdb1244,town
+yrdb1245,not specified
+yrdb1246,customs house
+yrdb1247,walled settlement
+yrdb1248,not specified
+yrdb1249,customs house
+yrdb1250,military post
+yrdb1251,town
+yrdb1252,village
+yrdb1253,customs house
+yrdb1254,military post
+yrdb1255,estuary
+yrdb1256,walled settlement
+yrdb1257,town
+yrdb1258,not specified
+yrdb1259,not specified
+yrdb1260,customs house
+yrdb1261,not specified
+yrdb1262,town
+yrdb1263,stage station
+yrdb1264,stream
+yrdb1265,walled settlement
+yrdb1266,town
+yrdb1267,town
+yrdb1268,customs house
+yrdb1269,town
+yrdb1270,community
+yrdb1271,township
+yrdb1272,fortress
+yrdb1273,post station
+yrdb1274,not specified
+yrdb1275,customs house
+yrdb1277,walled settlement
+yrdb1278,town
+yrdb1279,not specified
+yrdb1280,customs house
+yrdb1282,county
+yrdb1283,encampment
+yrdb1284,town
+yrdb1285,town
+yrdb1286,town
+yrdb1287,not specified
+yrdb1288,fortress
+yrdb1289,manor
+yrdb1290,estuary
+yrdb1291,estuary
+yrdb1292,not specified
+yrdb1293,stockade
+yrdb1294,village
+yrdb1295,ditch
+yrdb1296,estuary
+yrdb1297,estuary
+yrdb1298,estuary
+yrdb1299,encampment
+yrdb1300,not specified
+yrdb1301,community
+yrdb1302,stockade
+yrdb1303,river
+yrdb1304,fortress
+yrdb1305,not specified
+yrdb1306,town
+yrdb1307,town
+yrdb1308,department
+yrdb1309,customs house
+yrdb1310,commandery
+yrdb1311,county
+yrdb1312,encampment
+yrdb1313,dike
+yrdb1314,town
+yrdb1315,mudflat
+yrdb1316,not specified
+yrdb1317,walled settlement
+yrdb1318,not specified
+yrdb1319,not specified
+yrdb1320,embarkment
+yrdb1321,not specified
+yrdb1322,department
+yrdb1323,river
+yrdb1324,walled settlement
+yrdb1325,stage station
+yrdb1326,not specified
+yrdb1327,not specified
+yrdb1328,park
+yrdb1329,not specified
+yrdb1330,not specified
+yrdb1331,state
+yrdb1332,not specified
+yrdb1333,not specified
+yrdb1334,town
+yrdb1335,customs house
+yrdb1336,town
+yrdb1337,town
+yrdb1338,town
+yrdb1339,department
+yrdb1340,not specified
+yrdb1341,not specified
+yrdb1342,fortress
+yrdb1343,town
+yrdb1344,community
+yrdb1345,manor
+yrdb1346,town
+yrdb1347,town
+yrdb1350,not specified
+yrdb1351,post station
+yrdb1352,not specified
+yrdb1353,county
+yrdb1354,estuary
+yrdb1355,fortress
+yrdb1356,stockade
+yrdb1357,manor
+yrdb1358,bay
+yrdb1359,not specified
+yrdb1360,department
+yrdb1361,town
+yrdb1362,embarkment
+yrdb1363,estuary
+yrdb1364,town
+yrdb1365,not specified
+yrdb1367,neighborhood
+yrdb1368,walled settlement
+yrdb1369,not specified
+yrdb1370,not specified
+yrdb1372,county
+yrdb1373,department
+yrdb1374,county
+yrdb1375,not specified
+yrdb1376,customs house
+yrdb1377,not specified
+yrdb1378,fortress
+yrdb1380,town
+yrdb1381,town
+yrdb1382,not specified
+yrdb1383,not specified
+yrdb1384,town
+yrdb1385,fortress
+yrdb1386,estuary
+yrdb1387,not specified
+yrdb1388,not specified
+yrdb1389,stockade
+yrdb1390,not specified
+yrdb1391,fortress
+yrdb1392,not specified
+yrdb1393,ditch
+yrdb1394,not specified
+yrdb1395,not specified
+yrdb1396,estuary
+yrdb1397,stockade
+yrdb1398,estuary
+yrdb1399,customs house
+yrdb1400,town
+yrdb1401,fortress
+yrdb1402,estuary
+yrdb1403,estuary
+yrdb1404,ferry crossing
+yrdb1405,walled settlement
+yrdb1406,not specified
+yrdb1407,not specified
+yrdb1408,post station
+yrdb1409,estuary
+yrdb1410,not specified
+yrdb1411,not specified
+yrdb1412,manor
+yrdb1413,not specified
+yrdb1414,not specified
+yrdb1415,estuary
+yrdb1416,fortress
+yrdb1417,estuary
+yrdb1419,not specified
+yrdb1420,fortress
+yrdb1422,walled settlement
+yrdb1423,town
+yrdb1424,encampment
+yrdb1425,county
+yrdb1426,walled settlement
+yrdb1427,village
+yrdb1428,manor
+yrdb1429,not specified
+yrdb1430,not specified
+yrdb1431,town
+yrdb1432,fortress
+yrdb1433,not specified
+yrdb1435,not specified
+yrdb1436,town
+yrdb1437,county
+yrdb1438,department
+yrdb1439,fortress
+yrdb1440,not specified
+yrdb1442,estuary
+yrdb1443,fortress
+yrdb1444,not specified
+yrdb1445,stockade
+yrdb1446,fortress
+yrdb1447,estuary
+yrdb1448,walled settlement
+yrdb1449,manor
+yrdb1450,not specified
+yrdb1451,bridge
+yrdb1452,not specified
+yrdb1453,not specified
+yrdb1454,not specified
+yrdb1455,community
+yrdb1456,estuary
+yrdb1457,manor
+yrdb1458,not specified
+yrdb1459,community
+yrdb1460,bridge
+yrdb1461,manor
+yrdb1462,not specified
+yrdb1463,county
+yrdb1464,not specified
+yrdb1465,ditch
+yrdb1466,bureau
+yrdb1467,fortress
+yrdb1468,ditch
+yrdb1469,town
+yrdb1470,walled settlement
+yrdb1471,bridge
+yrdb1472,estuary
+yrdb1473,not specified
+yrdb1474,estuary
+yrdb1475,fortress
+yrdb1476,county
+yrdb1477,embarkment
+yrdb1478,bay
+yrdb1479,customs house
+yrdb1480,circuit
+yrdb1482,not specified
+yrdb1484,town
+yrdb1485,stage station
+yrdb1486,neighborhood
+yrdb1487,town
+yrdb1488,fortress
+yrdb1489,river valley
+yrdb1491,walled settlement
+yrdb1492,stockade
+yrdb1493,not specified
+yrdb1494,not specified
+yrdb1496,walled settlement
+yrdb1497,not specified
+yrdb1498,not specified
+yrdb1499,town
+yrdb1500,post station
+yrdb1501,fortress
+yrdb1502,post station
+yrdb1503,town
+yrdb1504,not specified
+yrdb1505,not specified
+yrdb1507,estuary
+yrdb1508,bay
+yrdb1509,not specified
+yrdb1510,ditch
+yrdb1511,town
+yrdb1512,mountain
+yrdb1513,town
+yrdb1514,dike
+yrdb1515,bay
+yrdb1516,town
+yrdb1517,temple
+yrdb1518,bureau
+yrdb1519,bureau
+yrdb1520,village
+yrdb1521,not specified
+yrdb1522,county
+yrdb1524,bureau
+yrdb1526,village
+yrdb1527,not specified
+yrdb1528,town
+yrdb1529,ferry crossing
+yrdb1530,town
+yrdb1531,walled settlement
+yrdb1532,not specified
+yrdb1533,not specified
+yrdb1534,fortress
+yrdb1535,not specified
+yrdb1536,state
+yrdb1537,manor
+yrdb1538,mountain
+yrdb1539,palace
+yrdb1540,not specified
+yrdb1541,estuary
+yrdb1542,ditch
+yrdb1543,not specified
+yrdb1546,walled settlement
+yrdb1547,not specified
+yrdb1548,post station
+yrdb1549,community
+yrdb1550,department
+yrdb1551,palace
+yrdb1552,village
+yrdb1553,county
+yrdb1554,state
+yrdb1555,department
+yrdb1556,not specified
+yrdb1557,fortress
+yrdb1558,town
+yrdb1559,county
+yrdb1561,not specified
+yrdb1562,not specified
+yrdb1563,estuary
+yrdb1564,community
+yrdb1566,estuary
+yrdb1567,not specified
+yrdb1569,not specified
+yrdb1570,town
+yrdb1571,not specified
+yrdb1572,walled settlement
+yrdb1573,town
+yrdb1574,not specified
+yrdb1575,town
+yrdb1576,manor
+yrdb1577,not specified
+yrdb1578,town
+yrdb1579,river valley
+yrdb1580,fortress
+yrdb1581,town
+yrdb1582,not specified
+yrdb1583,not specified
+yrdb1584,fortress
+yrdb1585,fortress
+yrdb1586,not specified
+yrdb1587,town
+yrdb1588,ridge
+yrdb1589,town
+yrdb1590,town
+yrdb1591,bridge
+yrdb1592,embarkment
+yrdb1593,not specified
+yrdb1594,not specified
+yrdb1595,department
+yrdb1596,not specified
+yrdb1597,town
+yrdb1598,walled settlement
+yrdb1599,walled settlement
+yrdb1600,prefecture
+yrdb1601,town
+yrdb1602,encampment
+yrdb1603,prefecture
+yrdb1604,estuary
+yrdb1605,not specified
+yrdb1606,encampment
+yrdb1607,creek
+yrdb1608,department
+yrdb1609,customs house
+yrdb1610,walled settlement
+yrdb1611,county
+yrdb1612,county
+yrdb1614,neighborhood
+yrdb1615,not specified
+yrdb1616,fortress
+yrdb1618,fortress
+yrdb1619,county
+yrdb1620,not specified
+yrdb1621,fief
+yrdb1622,commandery
+yrdb1623,county
+yrdb1625,flat
+yrdb1626,manor
+yrdb1627,river valley
+yrdb1628,not specified
+yrdb1629,manor
+yrdb1630,not specified
+yrdb1631,not specified
+yrdb1632,fortress
+yrdb1633,post station
+yrdb1634,not specified
+yrdb1635,estuary
+yrdb1636,town
+yrdb1637,fortress
+yrdb1638,not specified
+yrdb1639,town
+yrdb1640,walled settlement
+yrdb1642,walled settlement
+yrdb1643,fortress
+yrdb1644,river
+yrdb1645,walled settlement
+yrdb1646,river
+yrdb1647,stage station
+yrdb1648,town
+yrdb1649,township
+yrdb1650,town
+yrdb1651,fortress
+yrdb1652,fortress
+yrdb1653,customs house
+yrdb1654,not specified
+yrdb1655,county
+yrdb1656,department
+yrdb1657,encampment
+yrdb1658,fortress
+yrdb1659,town
+yrdb1660,department
+yrdb1661,ditch
+yrdb1663,fortress
+yrdb1664,bridge
+yrdb1665,bridge
+yrdb1666,fortress
+yrdb1667,county
+yrdb1668,county
+yrdb1669,fortress
+yrdb1670,not specified
+yrdb1671,not specified
+yrdb1672,commandery
+yrdb1673,canal
+yrdb1674,not specified
+yrdb1675,stream
+yrdb1676,commandery
+yrdb1677,stream
+yrdb1679,not specified
+yrdb1680,department
+yrdb1681,route
+yrdb1682,encampment
+yrdb1683,route
+yrdb1684,department
+yrdb1685,not specified
+yrdb1687,province
+yrdb1688,not specified
+yrdb1689,not specified
+yrdb1690,town
+yrdb1691,department
+yrdb1692,not specified
+yrdb1693,walled settlement
+yrdb1694,not specified
+yrdb1695,manor
+yrdb1696,county
+yrdb1698,not specified
+yrdb1699,estuary
+yrdb1703,river
+yrdb1704,estuary
+yrdb1705,county
+yrdb1706,river
+yrdb1707,walled settlement
+yrdb1708,town
+yrdb1709,department
+yrdb1710,customs house
+yrdb1711,river
+yrdb1712,not specified
+yrdb1714,department
+yrdb1715,river
+yrdb1716,not specified
+yrdb1717,not specified
+yrdb1718,mountain
+yrdb1719,department
+yrdb1720,river
+yrdb1721,not specified
+yrdb1723,town
+yrdb1724,not specified
+yrdb1725,not specified
+yrdb1726,manor
+yrdb1727,county
+yrdb1728,county
+yrdb1729,not specified
+yrdb1730,not specified
+yrdb1731,not specified
+yrdb1732,not specified
+yrdb1733,post station
+yrdb1735,not specified
+yrdb1736,not specified
+yrdb1738,stockade
+yrdb1739,river
+yrdb1740,not specified
+yrdb1741,stage station
+yrdb1742,not specified
+yrdb1743,not specified
+yrdb1744,bay
+yrdb1745,park
+yrdb1746,fortress
+yrdb1747,walled settlement
+yrdb1748,county
+yrdb1749,river
+yrdb1750,department
+yrdb1751,not specified
+yrdb1752,not specified
+yrdb1753,route
+yrdb1754,route
+yrdb1755,prefecture
+yrdb1756,not specified
+yrdb1757,not specified
+yrdb1759,county
+yrdb1760,province
+yrdb1761,route
+yrdb1762,route
+yrdb1763,route
+yrdb1764,town
+yrdb1765,province
+yrdb1767,route
+yrdb1768,town
+yrdb1769,town
+yrdb1770,village
+yrdb1771,park
+yrdb1772,not specified
+yrdb1773,not specified
+yrdb1774,department
+yrdb1775,village
+yrdb1776,not specified
+yrdb1777,bridge
+yrdb1778,ford
+yrdb1779,not specified
+yrdb1780,city
+yrdb1781,fief
+yrdb1782,fief
+yrdb1783,not specified
+yrdb1784,not specified
+yrdb1786,bridge
+yrdb1788,not specified
+yrdb1790,not specified
+yrdb1791,town
+yrdb1792,stockade
+yrdb1793,county
+yrdb1794,not specified
+yrdb1795,fortress
+yrdb1796,not specified
+yrdb1797,military post
+yrdb1798,department
+yrdb1799,river
+yrdb1800,river
+yrdb1802,encampment
+yrdb1803,walled settlement
+yrdb1804,not specified
+yrdb1805,department
+yrdb1806,mountain
+yrdb1807,temple
+yrdb1808,department
+yrdb1809,walled settlement
+yrdb1810,department
+yrdb1811,creek
+yrdb1812,department
+yrdb1813,stream
+yrdb1814,not specified
+yrdb1815,fortress
+yrdb1816,department
+yrdb1817,estuary
+yrdb1818,county
+yrdb1819,bridge
+yrdb1820,bridge
+yrdb1821,river
+yrdb1822,river valley
+yrdb1823,not specified
+yrdb1824,not specified
+yrdb1826,not specified
+yrdb1827,not specified
+yrdb1828,town
+yrdb1829,not specified
+yrdb1830,creek
+yrdb1831,stream
+yrdb1832,customs house
+yrdb1833,town
+yrdb1834,estuary
+yrdb1835,department
+yrdb1837,fortress
+yrdb1838,walled settlement
+yrdb1839,not specified
+yrdb1840,walled settlement
+yrdb1841,not specified
+yrdb1842,not specified
+yrdb1843,bay
+yrdb1844,department
+yrdb1845,not specified
+yrdb1846,town
+yrdb1847,river
+yrdb1849,not specified
+yrdb1850,embarkment
+yrdb1852,prefecture
+yrdb1854,not specified
+yrdb1855,route
+yrdb1856,department
+yrdb1857,river
+yrdb1858,not specified
+yrdb1859,county
+yrdb1861,town
+yrdb1862,not specified
+yrdb1864,village
+yrdb1865,river
+yrdb1866,not specified
+yrdb1867,province
+yrdb1868,route
+yrdb1869,county
+yrdb1870,county
+yrdb1872,ford
+yrdb1873,estuary
+yrdb1874,bridge
+yrdb1875,bureau
+yrdb1876,encampment
+yrdb1877,not specified
+yrdb1878,mudflat
+yrdb1879,not specified
+yrdb1881,department
+yrdb1882,bureau
+yrdb1883,mountain
+yrdb1884,township
+yrdb1885,not specified
+yrdb1886,fortress
+yrdb1888,walled settlement
+yrdb1889,creek
+yrdb1890,town
+yrdb1891,walled settlement
+yrdb1892,department
+yrdb1893,estuary
+yrdb1894,department
+yrdb1895,town
+yrdb1896,department
+yrdb1897,military post
+yrdb1898,county
+yrdb1899,route
+yrdb1901,not specified
+yrdb1903,prefecture
+yrdb1904,route
+yrdb1905,stream
+yrdb1906,not specified
+yrdb1907,commandery
+yrdb1908,not specified
+yrdb1909,department
+yrdb1910,not specified
+yrdb1911,county
+yrdb1912,town
+yrdb1913,department
+yrdb1914,customs house
+yrdb1915,fortress
+yrdb1916,customs house
+yrdb1917,fortress
+yrdb1918,not specified
+yrdb1919,not specified
+yrdb1920,encampment
+yrdb1921,town
+yrdb1922,stage station
+yrdb1923,not specified
+yrdb1924,not specified
+yrdb1925,river
+yrdb1926,county
+yrdb1927,estuary
+yrdb1928,not specified
+yrdb1929,township
+yrdb1930,county
+yrdb1931,temple
+yrdb1932,not specified
+yrdb1933,department
+yrdb1934,fortress
+yrdb1935,county
+yrdb1936,county
+yrdb1937,estuary
+yrdb1938,temple
+yrdb1939,temple
+yrdb1940,town
+yrdb1941,fortress
+yrdb1943,not specified
+yrdb1944,not specified
+yrdb1945,walled settlement
+yrdb1946,bridge
+yrdb1947,stream
+yrdb1948,not specified
+yrdb1949,province
+yrdb1950,walled settlement
+yrdb1951,military post
+yrdb1952,department
+yrdb1953,not specified
+yrdb1954,post station
+yrdb1955,not specified
+yrdb1956,walled settlement
+yrdb1957,stream
+yrdb1958,town
+yrdb1959,river
+yrdb1960,neighborhood
+yrdb1961,town
+yrdb1962,ditch
+yrdb1963,not specified
+yrdb1964,county
+yrdb1966,fortress
+yrdb1967,department
+yrdb1968,river valley
+yrdb1969,not specified
+yrdb1970,county
+yrdb1971,department
+yrdb1972,town
+yrdb1973,river
+yrdb1974,flat
+yrdb1975,river
+yrdb1976,not specified
+yrdb1977,encampment
+yrdb1978,not specified
+yrdb1979,manor
+yrdb1980,neighborhood
+yrdb1981,not specified
+yrdb1984,temple
+yrdb1985,customs house
+yrdb1986,department
+yrdb1987,not specified
+yrdb1988,department
+yrdb1989,not specified
+yrdb1992,not specified
+yrdb1993,department
+yrdb1994,town
+yrdb1995,town
+yrdb1996,not specified
+yrdb1997,fortress
+yrdb1998,not specified
+yrdb2000,county
+yrdb2001,not specified
+yrdb2002,county
+yrdb2003,county
+yrdb2005,river
+yrdb2006,department
+yrdb2007,embarkment
+yrdb2008,river valley
+yrdb2009,county
+yrdb2010,temple
+yrdb2011,county
+yrdb2012,county
+yrdb2014,not specified
+yrdb2015,ditch
+yrdb2016,not specified
+yrdb2017,not specified
+yrdb2018,mound
+yrdb2019,stockade
+yrdb2020,not specified
+yrdb2021,not specified
+yrdb2022,not specified
+yrdb2023,village
+yrdb2024,not specified
+yrdb2025,department
+yrdb2026,not specified
+yrdb2027,military post
+yrdb2028,estuary
+yrdb2029,mountain
+yrdb2030,walled settlement
+yrdb2031,manor
+yrdb2033,encampment
+yrdb2034,encampment
+yrdb2035,fortress
+yrdb2036,stockade
+yrdb2037,town
+yrdb2038,town
+yrdb2039,military post
+yrdb2040,park
+yrdb2041,park
+yrdb2042,not specified
+yrdb2043,neighborhood
+yrdb2044,circuit
+yrdb2045,not specified
+yrdb2046,not specified
+yrdb2047,not specified
+yrdb2048,ditch
+yrdb2050,customs house
+yrdb2051,not specified
+yrdb2052,encampment
+yrdb2054,palace
+yrdb2055,not specified
+yrdb2056,ford
+yrdb2057,embarkment
+yrdb2058,embarkment
+yrdb2059,dike
+yrdb2060,stockade
+yrdb2061,fortress
+yrdb2062,walled settlement
+yrdb2063,not specified
+yrdb2064,river valley
+yrdb2065,estuary
+yrdb2066,not specified
+yrdb2067,not specified
+yrdb2068,flat
+yrdb2069,not specified
+yrdb2070,fortress
+yrdb2071,stockade
+yrdb2072,not specified
+yrdb2073,fortress
+yrdb2074,not specified
+yrdb2075,river
+yrdb2076,not specified
+yrdb2077,encampment
+yrdb2078,town
+yrdb2079,estuary
+yrdb2080,community
+yrdb2081,town
+yrdb2082,village
+yrdb2083,manor
+yrdb2084,manor
+yrdb2085,fortress
+yrdb2086,village
+yrdb2087,not specified
+yrdb2088,estuary
+yrdb2089,fortress
+yrdb2090,town
+yrdb2091,ferry crossing
+yrdb2092,embarkment
+yrdb2093,canal
+yrdb2094,estuary
+yrdb2095,estuary
+yrdb2096,encampment
+yrdb2097,encampment
+yrdb2098,not specified
+yrdb2099,walled settlement
+yrdb2100,not specified
+yrdb2101,not specified
+yrdb2102,department
+yrdb2103,estuary
+yrdb2104,stage station
+yrdb2105,neighborhood
+yrdb2106,customs house
+yrdb2107,not specified
+yrdb2109,mudflat
+yrdb2110,estuary
+yrdb2111,fortress
+yrdb2112,estuary
+yrdb2113,bay
+yrdb2114,neighborhood
+yrdb2116,not specified
+yrdb2117,temple
+yrdb2118,walled settlement
+yrdb2119,walled settlement
+yrdb2120,not specified
+yrdb2121,not specified
+yrdb2122,walled settlement
+yrdb2123,not specified
+yrdb2124,fortress
+yrdb2125,fortress
+yrdb2126,town
+yrdb2127,stockade
+yrdb2128,temple
+yrdb2129,not specified
+yrdb2130,estuary
+yrdb2131,fortress
+yrdb2132,estuary
+yrdb2133,not specified
+yrdb2134,not specified
+yrdb2135,not specified
+yrdb2136,estuary
+yrdb2137,fortress
+yrdb2138,walled settlement
+yrdb2139,estuary
+yrdb2140,not specified
+yrdb2141,prefecture
+yrdb2142,town
+yrdb2143,not specified
+yrdb2144,manor
+yrdb2145,not specified
+yrdb2146,not specified
+yrdb2147,walled settlement
+yrdb2148,not specified
+yrdb2149,military post
+yrdb2150,temple
+yrdb2151,encampment
+yrdb2152,not specified
+yrdb2153,not specified
+yrdb2154,bay
+yrdb2155,not specified
+yrdb2156,town
+yrdb2157,not specified
+yrdb2158,county
+yrdb2160,town
+yrdb2161,town
+yrdb2162,ditch
+yrdb2163,town
+yrdb2164,river
+yrdb2165,walled settlement
+yrdb2166,not specified
+yrdb2167,ferry crossing
+yrdb2168,village
+yrdb2169,not specified
+yrdb2170,customs house
+yrdb2171,not specified
+yrdb2173,not specified
+yrdb2174,county
+yrdb2175,not specified
+yrdb2176,estuary
+yrdb2177,community
+yrdb2178,not specified
+yrdb2179,flat
+yrdb2180,stockade
+yrdb2181,stockade
+yrdb2182,not specified
+yrdb2183,circuit
+yrdb2185,town
+yrdb2186,ford
+yrdb2187,fortress
+yrdb2188,temple
+yrdb2189,mudflat
+yrdb2190,post station
+yrdb2191,town
+yrdb2192,fortress
+yrdb2193,creek
+yrdb2194,fief
+yrdb2195,town
+yrdb2197,fortress
+yrdb2198,not specified
+yrdb2199,estuary
+yrdb2200,fortress
+yrdb2201,county
+yrdb2202,not specified
+yrdb2203,not specified
+yrdb2204,not specified
+yrdb2205,not specified
+yrdb2207,department
+yrdb2208,not specified
+yrdb2209,town
+yrdb2210,customs house
+yrdb2211,fortress
+yrdb2212,stage station
+yrdb2213,walled settlement
+yrdb2215,walled settlement
+yrdb2216,not specified
+yrdb2217,town
+yrdb2218,not specified
+yrdb2219,stage station
+yrdb2220,town
+yrdb2221,ridge
+yrdb2222,estuary
+yrdb2223,not specified
+yrdb2225,village
+yrdb2226,town
+yrdb2227,temple
+yrdb2228,customs house
+yrdb2229,town
+yrdb2230,not specified
+yrdb2231,county
+yrdb2232,not specified
+yrdb2233,estuary
+yrdb2234,estuary
+yrdb2235,not specified
+yrdb2236,not specified
+yrdb2238,customs house
+yrdb2240,not specified
+yrdb2241,not specified
+yrdb2242,bay
+yrdb2243,department
+yrdb2244,military post
+yrdb2245,prefecture
+yrdb2246,temple
+yrdb2247,not specified
+yrdb2248,not specified
+yrdb2249,bureau
+yrdb2250,county
+yrdb2252,department
+yrdb2253,river
+yrdb2254,county
+yrdb2255,fortress
+yrdb2256,estuary
+yrdb2257,ditch
+yrdb2258,town
+yrdb2259,estuary
+yrdb2260,mountain
+yrdb2261,stage station
+yrdb2262,mountain
+yrdb2263,stockade
+yrdb2264,walled settlement
+yrdb2265,not specified
+yrdb2266,village
+yrdb2267,bridge
+yrdb2268,dike
+yrdb2269,bay
+yrdb2270,temple
+yrdb2271,customs house
+yrdb2272,fortress
+yrdb2273,walled settlement
+yrdb2274,department
+yrdb2275,not specified
+yrdb2276,not specified
+yrdb2277,not specified
+yrdb2278,bridge
+yrdb2279,town
+yrdb2282,estuary
+yrdb2283,county
+yrdb2285,fortress
+yrdb2286,town
+yrdb2287,not specified
+yrdb2288,fortress
+yrdb2289,canal
+yrdb2290,temple
+yrdb2292,customs house
+yrdb2293,encampment
+yrdb2294,walled settlement
+yrdb2295,not specified
+yrdb2296,not specified
+yrdb2297,customs house
+yrdb2298,not specified
+yrdb2299,not specified
+yrdb2300,village
+yrdb2301,county
+yrdb2303,fortress
+yrdb2304,mountain
+yrdb2306,fortress
+yrdb2307,fortress
+yrdb2308,not specified
+yrdb2309,customs house
+yrdb2310,town
+yrdb2311,customs house
+yrdb2313,town
+yrdb2314,town
+yrdb2315,not specified
+yrdb2317,department
+yrdb2318,town
+yrdb2319,fortress
+yrdb2321,manor
+yrdb2322,estuary
+yrdb2323,ditch
+yrdb2324,estuary
+yrdb2325,town
+yrdb2326,town
+yrdb2327,not specified
+yrdb2328,military post
+yrdb2329,not specified
+yrdb2332,estuary
+yrdb2333,department
+yrdb2334,town
+yrdb2335,town
+yrdb2336,river
+yrdb2337,fortress
+yrdb2338,estuary
+yrdb2339,not specified
+yrdb2340,bureau
+yrdb2341,county
+yrdb2344,not specified
+yrdb2345,not specified
+yrdb2346,department
+yrdb2347,province
+yrdb2348,town
+yrdb2350,county
+yrdb2351,walled settlement
+yrdb2352,temple
+yrdb2353,ferry crossing
+yrdb2354,not specified
+yrdb2355,town
+yrdb2356,stage station
+yrdb2357,neighborhood
+yrdb2359,town
+yrdb2360,fortress
+yrdb2361,state
+yrdb2362,not specified
+yrdb2363,bay
+yrdb2364,department
+yrdb2365,town
+yrdb2366,ditch
+yrdb2367,town
+yrdb2368,creek
+yrdb2369,customs house
+yrdb2370,stockade
+yrdb2371,not specified
+yrdb2372,not specified
+yrdb2373,town
+yrdb2375,neighborhood
+yrdb2376,customs house
+yrdb2377,not specified
+yrdb2378,fortress
+yrdb2379,not specified
+yrdb2380,village
+yrdb2381,village
+yrdb2382,not specified
+yrdb2384,customs house
+yrdb2385,estuary
+yrdb2386,stockade
+yrdb2387,manor
+yrdb2389,town
+yrdb2390,stage station
+yrdb2391,county
+yrdb2393,encampment
+yrdb2394,town
+yrdb2396,town
+yrdb2397,dam
+yrdb2398,river
+yrdb2399,town
+yrdb2400,encampment
+yrdb2401,embarkment
+yrdb2402,embarkment
+yrdb2403,town
+yrdb2404,customs house
+yrdb2405,walled settlement
+yrdb2406,county
+yrdb2407,not specified
+yrdb2408,not specified
+yrdb2409,town
+yrdb2410,fortress
+yrdb2411,fief
+yrdb2413,not specified
+yrdb2414,not specified
+yrdb2415,village
+yrdb2416,village
+yrdb2417,walled settlement
+yrdb2418,not specified
+yrdb2419,fortress
+yrdb2420,fortress
+yrdb2421,not specified
+yrdb2422,walled settlement
+yrdb2424,not specified
+yrdb2425,fortress
+yrdb2427,not specified
+yrdb2428,fortress
+yrdb2429,fortress
+yrdb2430,estuary
+yrdb2431,walled settlement
+yrdb2432,town
+yrdb2433,estuary
+yrdb2434,stockade
+yrdb2435,bay
+yrdb2436,fortress
+yrdb2437,not specified
+yrdb2438,not specified
+yrdb2439,encampment
+yrdb2440,not specified
+yrdb2441,town
+yrdb2442,route
+yrdb2443,customs house
+yrdb2444,county
+yrdb2445,department
+yrdb2446,stockade
+yrdb2447,not specified
+yrdb2448,river valley
+yrdb2449,not specified
+yrdb2452,not specified
+yrdb2453,not specified
+yrdb2454,fortress
+yrdb2455,estuary
+yrdb2456,fortress
+yrdb2457,town
+yrdb2458,town
+yrdb2459,walled settlement
+yrdb2460,mountain
+yrdb2461,not specified
+yrdb2462,not specified
+yrdb2463,town
+yrdb2464,canal
+yrdb2465,not specified
+yrdb2467,not specified
+yrdb2468,palace
+yrdb2469,not specified
+yrdb2470,town
+yrdb2471,not specified
+yrdb2472,town
+yrdb2473,walled settlement
+yrdb2474,department
+yrdb2475,not specified
+yrdb2476,estuary
+yrdb2477,bay
+yrdb2479,river valley
+yrdb2480,fortress
+yrdb2481,customs house
+yrdb2482,not specified
+yrdb2484,county
+yrdb2485,not specified
+yrdb2486,not specified
+yrdb2487,township
+yrdb2488,stockade
+yrdb2489,not specified
+yrdb2490,estuary
+yrdb2491,walled settlement
+yrdb2492,town
+yrdb2493,walled settlement
+yrdb2495,estuary
+yrdb2496,customs house
+yrdb2497,town
+yrdb2498,county
+yrdb2500,county
+yrdb2501,walled settlement
+yrdb2502,customs house
+yrdb2503,not specified
+yrdb2504,encampment
+yrdb2505,not specified
+yrdb2506,bay
+yrdb2508,fortress
+yrdb2509,ditch
+yrdb2510,town
+yrdb2511,temple
+yrdb2512,river valley
+yrdb2513,ditch
+yrdb2514,river
+yrdb2515,not specified
+yrdb2516,walled settlement
+yrdb2517,department
+yrdb2518,not specified
+yrdb2519,not specified
+yrdb2520,town
+yrdb2521,town
+yrdb2522,town
+yrdb2523,not specified
+yrdb2524,town
+yrdb2525,not specified
+yrdb2526,town
+yrdb2527,manor
+yrdb2528,fortress
+yrdb2529,stockade
+yrdb2530,fortress
+yrdb2531,township
+yrdb2532,not specified
+yrdb2533,stockade
+yrdb2534,town
+yrdb2535,mountain
+yrdb2536,temple
+yrdb2537,not specified
+yrdb2538,town
+yrdb2539,not specified
+yrdb2540,not specified
+yrdb2542,town
+yrdb2543,stage station
+yrdb2544,customs house
+yrdb2545,not specified
+yrdb2546,not specified
+yrdb2547,manor
+yrdb2548,not specified
+yrdb2549,village
+yrdb2550,not specified
+yrdb2551,not specified
+yrdb2552,flat
+yrdb2553,town
+yrdb2554,military post
+yrdb2555,fortress
+yrdb2557,village
+yrdb2558,town
+yrdb2559,county
+yrdb2560,estuary
+yrdb2561,village
+yrdb2562,stockade
+yrdb2563,estuary
+yrdb2564,county
+yrdb2565,dike
+yrdb2566,mountain
+yrdb2568,ferry crossing
+yrdb2569,estuary
+yrdb2570,walled settlement
+yrdb2571,estuary
+yrdb2573,encampment
+yrdb2574,town
+yrdb2575,estuary
+yrdb2576,department
+yrdb2577,route
+yrdb2578,commandery
+yrdb2579,fortress
+yrdb2581,river
+yrdb2582,mudflat
+yrdb2583,stockade
+yrdb2584,fortress
+yrdb2585,not specified
+yrdb2587,not specified
+yrdb2589,temple
+yrdb2590,not specified
+yrdb2591,not specified
+yrdb2592,encampment
+yrdb2593,department
+yrdb2594,walled settlement
+yrdb2595,fortress
+yrdb2597,not specified
+yrdb2598,not specified
+yrdb2600,not specified
+yrdb2601,military post
+yrdb2602,stage station
+yrdb2603,fortress
+yrdb2604,fortress
+yrdb2605,stage station
+yrdb2606,post station
+yrdb2607,customs house
+yrdb2609,bureau
+yrdb2611,county
+yrdb2613,estuary
+yrdb2614,manor
+yrdb2615,ferry crossing
+yrdb2616,not specified
+yrdb2617,not specified
+yrdb2618,palace
+yrdb2619,not specified
+yrdb2621,town
+yrdb2622,neighborhood
+yrdb2623,walled settlement
+yrdb2624,flat
+yrdb2625,mountain
+yrdb2626,encampment
+yrdb2627,town
+yrdb2628,estuary
+yrdb2629,fortress
+yrdb2630,ditch
+yrdb2631,river
+yrdb2632,bay
+yrdb2633,not specified
+yrdb2634,mound
+yrdb2635,walled settlement
+yrdb2636,not specified
+yrdb2637,encampment
+yrdb2638,not specified
+yrdb2639,not specified
+yrdb2640,town
+yrdb2642,temple
+yrdb2643,mountain
+yrdb2644,mountain
+yrdb2645,township
+yrdb2646,estuary
+yrdb2647,county
+yrdb2648,ford
+yrdb2649,county
+yrdb2650,not specified
+yrdb2651,town
+yrdb2653,township
+yrdb2656,not specified
+yrdb2658,town
+yrdb2659,county
+yrdb2660,town
+yrdb2661,customs house
+yrdb2662,department
+yrdb2663,river valley
+yrdb2664,river
+yrdb2665,estuary
+yrdb2666,not specified
+yrdb2667,department
+yrdb2668,fortress
+yrdb2669,fortress
+yrdb2670,not specified
+yrdb2671,not specified
+yrdb2672,not specified
+yrdb2673,department
+yrdb2674,manor
+yrdb2675,not specified
+yrdb2676,town
+yrdb2677,not specified
+yrdb2678,not specified
+yrdb2679,town
+yrdb2680,town
+yrdb2681,town
+yrdb2682,bridge
+yrdb2683,not specified
+yrdb2684,not specified
+yrdb2685,estuary
+yrdb2686,customs house
+yrdb2687,town
+yrdb2688,town
+yrdb2689,bridge
+yrdb2690,walled settlement
+yrdb2691,county
+yrdb2692,not specified
+yrdb2693,neighborhood
+yrdb2694,town
+yrdb2695,department
+yrdb2696,village
+yrdb2697,not specified
+yrdb2700,county
+yrdb2701,customs house
+yrdb2702,mudflat
+yrdb2703,not specified
+yrdb2704,community
+yrdb2705,neighborhood
+yrdb2706,estuary
+yrdb2707,river
+yrdb2709,not specified
+yrdb2711,not specified
+yrdb2712,department
+yrdb2713,county
+yrdb2714,not specified
+yrdb2715,town
+yrdb2716,neighborhood
+yrdb2717,not specified
+yrdb2719,town
+yrdb2720,not specified
+yrdb2721,department
+yrdb2722,fief
+yrdb2723,not specified
+yrdb2724,not specified
+yrdb2725,county
+yrdb2727,not specified
+yrdb2728,walled settlement
+yrdb2729,fortress
+yrdb2730,not specified
+yrdb2731,stage station
+yrdb2733,not specified
+yrdb2735,prefecture
+yrdb2736,fortress
+yrdb2737,encampment
+yrdb2738,town
+yrdb2739,river
+yrdb2740,stockade
+yrdb2741,town
+yrdb2742,fortress
+yrdb2743,stage station
+yrdb2744,walled settlement
+yrdb2745,not specified
+yrdb2746,bridge
+yrdb2748,town
+yrdb2749,not specified
+yrdb2750,estuary
+yrdb2751,not specified
+yrdb2752,not specified
+yrdb2754,town
+yrdb2755,fortress
+yrdb2756,estuary
+yrdb2757,not specified
+yrdb2758,town
+yrdb2759,not specified
+yrdb2760,not specified
+yrdb2761,not specified
+yrdb2762,walled settlement
+yrdb2763,not specified
+yrdb2764,village
+yrdb2765,not specified
+yrdb2766,estuary
+yrdb2767,department
+yrdb2768,town
+yrdb2769,town
+yrdb2770,not specified
+yrdb2772,encampment
+yrdb2773,not specified
+yrdb2774,not specified
+yrdb2775,fortress
+yrdb2776,not specified
+yrdb2777,department
+yrdb2778,manor
+yrdb2779,dike
+yrdb2780,commandery
+yrdb2781,manor
+yrdb2782,department
+yrdb2783,temple
+yrdb2784,neighborhood
+yrdb2785,estuary
+yrdb2786,walled settlement
+yrdb2787,manor
+yrdb2788,county
+yrdb2789,walled settlement
+yrdb2790,not specified
+yrdb2791,not specified
+yrdb2792,not specified
+yrdb2793,not specified
+yrdb2795,township
+yrdb2796,department
+yrdb2797,fortress
+yrdb2798,not specified
+yrdb2799,not specified
+yrdb2801,town
+yrdb2802,dam
+yrdb2803,fortress
+yrdb2804,fortress
+yrdb2805,not specified
+yrdb2806,manor
+yrdb2807,not specified
+yrdb2808,river
+yrdb2809,river
+yrdb2810,not specified
+yrdb2811,neighborhood
+yrdb2812,mountain
+yrdb2813,military post
+yrdb2814,fortress
+yrdb2815,town
+yrdb2816,town
+yrdb2817,temple
+yrdb2818,estuary
+yrdb2819,stream
+yrdb2820,walled settlement
+yrdb2821,stockade
+yrdb2822,town
+yrdb2824,state
+yrdb2825,walled settlement
+yrdb2826,town
+yrdb2827,not specified
+yrdb2828,not specified
+yrdb2829,not specified
+yrdb2830,not specified
+yrdb2831,community
+yrdb2832,ridge
+yrdb2833,department
+yrdb2834,manor
+yrdb2835,fortress
+yrdb2836,town
+yrdb2837,village
+yrdb2838,town
+yrdb2839,river
+yrdb2840,stockade
+yrdb2841,stockade
+yrdb2842,fortress
+yrdb2843,town
+yrdb2844,not specified
+yrdb2845,not specified
+yrdb2848,estuary
+yrdb2849,ridge
+yrdb2851,not specified
+yrdb2854,walled settlement
+yrdb2855,circuit
+yrdb2856,not specified
+yrdb2857,village
+yrdb2859,not specified
+yrdb2860,town
+yrdb2861,town
+yrdb2862,not specified
+yrdb2863,not specified
+yrdb2864,walled settlement
+yrdb2865,not specified
+yrdb2866,fortress
+yrdb2867,embarkment
+yrdb2868,walled settlement
+yrdb2869,not specified
+yrdb2870,town
+yrdb2871,town
+yrdb2872,walled settlement
+yrdb2873,not specified
+yrdb2874,river valley
+yrdb2875,not specified
+yrdb2876,commandery
+yrdb2878,stage station
+yrdb2879,department
+yrdb2880,river
+yrdb2881,fortress
+yrdb2882,bridge
+yrdb2883,canal
+yrdb2884,not specified
+yrdb2885,not specified
+yrdb2886,fortress
+yrdb2887,fortress
+yrdb2888,prefecture
+yrdb2889,stockade
+yrdb2890,post station
+yrdb2891,estuary
+yrdb2892,department
+yrdb2895,village
+yrdb2896,department
+yrdb2897,ford
+yrdb2898,not specified
+yrdb2899,walled settlement
+yrdb2900,mound
+yrdb2901,estuary
+yrdb2902,department
+yrdb2903,neighborhood
+yrdb2904,county
+yrdb2905,not specified
+yrdb2906,not specified
+yrdb2907,not specified
+yrdb2908,bureau
+yrdb2909,department
+yrdb2910,bureau
+yrdb2911,neighborhood
+yrdb2912,not specified
+yrdb2913,fortress
+yrdb2914,town
+yrdb2915,dam
+yrdb2916,estuary
+yrdb2917,town
+yrdb2918,not specified
+yrdb2919,town
+yrdb2920,not specified
+yrdb2921,not specified
+yrdb2922,not specified
+yrdb2924,not specified
+yrdb2925,county
+yrdb2926,not specified
+yrdb2927,county
+yrdb2929,not specified
+yrdb2930,not specified
+yrdb2931,fortress
+yrdb2932,fortress
+yrdb2933,fortress
+yrdb2934,ford
+yrdb2935,county
+yrdb2936,state
+yrdb2937,manor
+yrdb2938,not specified
+yrdb2940,ferry crossing
+yrdb2941,encampment
+yrdb2942,canal
+yrdb2943,county
+yrdb2944,department
+yrdb2945,ford
+yrdb2946,not specified
+yrdb2947,not specified
+yrdb2948,walled settlement
+yrdb2949,not specified
+yrdb2950,not specified
+yrdb2951,ditch
+yrdb2952,ferry crossing
+yrdb2953,not specified
+yrdb2954,town
+yrdb2955,community
+yrdb2956,village
+yrdb2957,town
+yrdb2958,not specified
+yrdb2959,town
+yrdb2960,not specified
+yrdb2961,town
+yrdb2962,walled settlement
+yrdb2963,walled settlement
+yrdb2964,walled settlement
+yrdb2966,county
+yrdb2969,town
+yrdb2970,not specified
+yrdb2971,not specified
+yrdb2972,not specified
+yrdb2975,county
+yrdb2976,department
+yrdb2977,not specified
+yrdb2978,not specified
+yrdb2979,not specified
+yrdb2980,stage station
+yrdb2981,county
+yrdb2982,not specified
+yrdb2983,ford
+yrdb2985,walled settlement
+yrdb2986,town
+yrdb2987,fortress
+yrdb2988,not specified
+yrdb2989,not specified
+yrdb2990,not specified
+yrdb2991,town
+yrdb2992,walled settlement
+yrdb2993,not specified
+yrdb2994,county
+yrdb2995,not specified
+yrdb2996,pass
+yrdb2997,dike
+yrdb2998,walled settlement
+yrdb2999,not specified
+yrdb3000,not specified
+yrdb3001,department
+yrdb3002,customs house
+yrdb3003,dike
+yrdb3004,walled settlement
+yrdb3005,stream
+yrdb3006,stockade
+yrdb3007,ford
+yrdb3008,town
+yrdb3009,manor
+yrdb3010,temple
+yrdb3012,not specified
+yrdb3013,river valley
+yrdb3014,customs house
+yrdb3015,estuary
+yrdb3016,county
+yrdb3018,not specified
+yrdb3019,department
+yrdb3020,manor
+yrdb3021,fortress
+yrdb3022,not specified
+yrdb3023,customs house
+yrdb3024,walled settlement
+yrdb3025,customs house
+yrdb3026,not specified
+yrdb3027,walled settlement
+yrdb3028,town
+yrdb3029,county
+yrdb3030,bridge
+yrdb3031,bureau
+yrdb3032,not specified
+yrdb3033,county
+yrdb3034,creek
+yrdb3035,customs house
+yrdb3036,town
+yrdb3037,not specified
+yrdb3038,stockade
+yrdb3039,fortress
+yrdb3040,estuary
+yrdb3041,fortress
+yrdb3042,not specified
+yrdb3044,department
+yrdb3045,not specified
+yrdb3046,not specified
+yrdb3047,fortress
+yrdb3048,route
+yrdb3049,fortress
+yrdb3050,fortress
+yrdb3051,fortress
+yrdb3052,fortress
+yrdb3053,not specified
+yrdb3054,fortress
+yrdb3055,fortress
+yrdb3056,fortress
+yrdb3057,customs house
+yrdb3058,fortress
+yrdb3059,fortress
+yrdb3060,fortress
+yrdb3061,not specified
+yrdb3062,fortress
+yrdb3063,town
+yrdb3064,county
+yrdb3066,not specified
+yrdb3067,customs house
+yrdb3068,not specified
+yrdb3071,fortress
+yrdb3072,not specified
+yrdb3073,mountain
+yrdb3074,county
+yrdb3078,customs house
+yrdb3079,not specified
+yrdb3081,county
+yrdb3083,stage station
+yrdb3084,county
+yrdb3085,town
+yrdb3086,county
+yrdb3088,neighborhood
+yrdb3089,not specified
+yrdb3090,department
+yrdb3091,township
+yrdb3092,town
+yrdb3093,not specified
+yrdb3095,not specified
+yrdb3096,town
+yrdb3097,village
+yrdb3098,county
+yrdb3099,town
+yrdb3100,county
+yrdb3102,stockade
+yrdb3103,walled settlement
+yrdb3104,county
+yrdb3105,fief
+yrdb3106,town
+yrdb3108,fortress
+yrdb3109,fortress
+yrdb3110,not specified
+yrdb3111,not specified
+yrdb3112,not specified
+yrdb3113,county
+yrdb3114,fortress
+yrdb3115,not specified
+yrdb3117,not specified
+yrdb3118,walled settlement
+yrdb3119,river valley
+yrdb3121,dike
+yrdb3122,fief
+yrdb3123,walled settlement
+yrdb3125,customs house
+yrdb3126,not specified
+yrdb3127,not specified
+yrdb3128,not specified
+yrdb3130,walled settlement
+yrdb3131,department
+yrdb3132,fortress
+yrdb3133,walled settlement
+yrdb3134,town
+yrdb3136,palace
+yrdb3137,temple
+yrdb3138,not specified
+yrdb3139,town
+yrdb3140,not specified
+yrdb3141,not specified
+yrdb3142,town
+yrdb3143,customs house
+yrdb3145,military post
+yrdb3147,customs house
+yrdb3148,county
+yrdb3149,not specified
+yrdb3150,county
+yrdb3151,not specified
+yrdb3152,river
+yrdb3153,not specified
+yrdb3154,town
+yrdb3155,embarkment
+yrdb3156,estuary
+yrdb3157,estuary
+yrdb3158,fortress
+yrdb3159,stockade
+yrdb3160,encampment
+yrdb3161,manor
+yrdb3162,not specified
+yrdb3163,not specified
+yrdb3164,not specified
+yrdb3165,not specified
+yrdb3166,not specified
+yrdb3167,not specified
+yrdb3168,circuit
+yrdb3169,department
+yrdb3170,village
+yrdb3171,not specified
+yrdb3172,post station
+yrdb3173,town
+yrdb3174,not specified
+yrdb3175,manor
+yrdb3176,town
+yrdb3177,post station
+yrdb3178,walled settlement
+yrdb3180,town
+yrdb3184,county
+yrdb3185,not specified
+yrdb3186,department
+yrdb3187,ford
+yrdb3188,not specified
+yrdb3189,route
+yrdb3190,route
+yrdb3191,mountain
+yrdb3192,county
+yrdb3193,stage station
+yrdb3194,not specified
+yrdb3195,manor
+yrdb3196,fortress
+yrdb3197,temple
+yrdb3198,not specified
+yrdb3199,not specified
+yrdb3200,not specified
+yrdb3201,village
+yrdb3202,not specified
+yrdb3203,walled settlement
+yrdb3204,fortress
+yrdb3205,customs house
+yrdb3206,customs house
+yrdb3207,customs house
+yrdb3208,department
+yrdb3209,embarkment
+yrdb3210,department
+yrdb3211,not specified
+yrdb3212,department
+yrdb3213,palace
+yrdb3214,not specified
+yrdb3215,mound
+yrdb3216,county
+yrdb3217,department
+yrdb3218,not specified
+yrdb3219,town
+yrdb3220,town
+yrdb3221,fortress
+yrdb3222,community
+yrdb3223,town
+yrdb3224,fortress
+yrdb3225,town
+yrdb3226,town
+yrdb3227,town
+yrdb3228,bridge
+yrdb3229,mountain
+yrdb3230,department
+yrdb3231,fortress
+yrdb3232,not specified
+yrdb3233,stockade
+yrdb3234,town
+yrdb3235,post station
+yrdb3236,not specified
+yrdb3237,department
+yrdb3238,bridge
+yrdb3239,county
+yrdb3240,estuary
+yrdb3241,not specified
+yrdb3242,flat
+yrdb3243,not specified
+yrdb3244,town
+yrdb3245,county
+yrdb3246,town
+yrdb3247,encampment
+yrdb3249,stage station
+yrdb3250,department
+yrdb3251,not specified
+yrdb3252,province
+yrdb3253,not specified
+yrdb3254,not specified
+yrdb3255,not specified
+yrdb3256,town
+yrdb3257,bay
+yrdb3258,not specified
+yrdb3260,town
+yrdb3261,county
+yrdb3263,county
+yrdb3264,department
+yrdb3265,county
+yrdb3266,town
+yrdb3267,not specified
+yrdb3268,stockade
+yrdb3269,not specified
+yrdb3270,not specified
+yrdb3271,fortress
+yrdb3273,not specified
+yrdb3274,ditch
+yrdb3275,state
+yrdb3276,county
+yrdb3277,town
+yrdb3278,stockade
+yrdb3279,not specified
+yrdb3280,temple
+yrdb3281,mountain
+yrdb3282,manor
+yrdb3283,estuary
+yrdb3284,not specified
+yrdb3285,manor
+yrdb3286,county
+yrdb3288,village
+yrdb3289,town
+yrdb3290,not specified
+yrdb3291,not specified
+yrdb3292,mudflat
+yrdb3293,county
+yrdb3294,river
+yrdb3295,not specified
+yrdb3297,prefecture
+yrdb3298,river
+yrdb3299,county
+yrdb3301,town
+yrdb3302,mound
+yrdb3303,walled settlement
+yrdb3304,not specified
+yrdb3305,creek
+yrdb3306,department
+yrdb3307,stream
+yrdb3308,county
+yrdb3309,community
+yrdb3310,estuary
+yrdb3311,not specified
+yrdb3313,customs house
+yrdb3314,ferry crossing
+yrdb3315,bridge
+yrdb3316,not specified
+yrdb3317,not specified
+yrdb3318,department
+yrdb3319,fortress
+yrdb3320,county
+yrdb3323,town
+yrdb3324,dike
+yrdb3325,river
+yrdb3326,town
+yrdb3328,town
+yrdb3329,not specified
+yrdb3330,fortress
+yrdb3331,not specified
+yrdb3332,estuary
+yrdb3333,not specified
+yrdb3334,temple
+yrdb3335,bridge
+yrdb3336,not specified
+yrdb3337,not specified
+yrdb3338,community
+yrdb3339,customs house
+yrdb3340,town
+yrdb3341,fortress
+yrdb3343,manor
+yrdb3344,customs house
+yrdb3346,village
+yrdb3347,village
+yrdb3348,customs house
+yrdb3349,dike
+yrdb3350,town
+yrdb3351,bay
+yrdb3352,stockade
+yrdb3353,not specified
+yrdb3354,estuary
+yrdb3355,community
+yrdb3356,military post
+yrdb3357,not specified
+yrdb3358,community
+yrdb3360,town
+yrdb3361,encampment
+yrdb3362,estuary
+yrdb3363,town
+yrdb3364,not specified
+yrdb3365,river
+yrdb3366,fief
+yrdb3368,ridge
+yrdb3369,town
+yrdb3370,not specified
+yrdb3371,mountain
+yrdb3372,river
+yrdb3373,town
+yrdb3374,walled settlement
+yrdb3375,customs house
+yrdb3376,not specified
+yrdb3377,manor
+yrdb3378,town
+yrdb3379,ridge
+yrdb3380,fortress
+yrdb3381,not specified
+yrdb3382,bay
+yrdb3383,not specified
+yrdb3384,community
+yrdb3385,stockade
+yrdb3386,fortress
+yrdb3388,ridge
+yrdb3389,not specified
+yrdb3390,walled settlement
+yrdb3391,fortress
+yrdb3392,not specified
+yrdb3393,manor
+yrdb3394,encampment
+yrdb3395,temple
+yrdb3396,village
+yrdb3397,not specified
+yrdb3398,not specified
+yrdb3399,manor
+yrdb3400,estuary
+yrdb3401,not specified
+yrdb3404,not specified
+yrdb3405,county
+yrdb3406,not specified
+yrdb3408,not specified
+yrdb3409,walled settlement
+yrdb3410,not specified
+yrdb3411,customs house
+yrdb3413,dike
+yrdb3414,not specified
+yrdb3417,not specified
+yrdb3418,not specified
+yrdb3419,not specified
+yrdb3420,not specified
+yrdb3421,county
+yrdb3422,state
+yrdb3423,walled settlement
+yrdb3424,manor
+yrdb3425,not specified
+yrdb3426,bay
+yrdb3427,estuary
+yrdb3428,department
+yrdb3429,commandery
+yrdb3431,county
+yrdb3433,township
+yrdb3435,fortress
+yrdb3436,estuary
+yrdb3437,state
+yrdb3438,bay
+yrdb3439,manor
+yrdb3440,estuary
+yrdb3441,encampment
+yrdb3442,not specified
+yrdb3443,dam
+yrdb3444,mudflat
+yrdb3445,not specified
+yrdb3446,ditch
+yrdb3447,not specified
+yrdb3448,not specified
+yrdb3449,department
+yrdb3451,estuary
+yrdb3452,town
+yrdb3454,stage station
+yrdb3455,estuary
+yrdb3456,town
+yrdb3457,park
+yrdb3458,not specified
+yrdb3460,not specified
+yrdb3461,estuary
+yrdb3462,not specified
+yrdb3463,ridge
+yrdb3464,fief
+yrdb3465,county
+yrdb3466,temple
+yrdb3467,ditch
+yrdb3468,military post
+yrdb3470,not specified
+yrdb3471,not specified
+yrdb3472,town
+yrdb3473,mound
+yrdb3474,neighborhood
+yrdb3475,temple
+yrdb3476,fortress
+yrdb3477,stockade
+yrdb3478,river
+yrdb3479,estuary
+yrdb3480,town
+yrdb3481,not specified
+yrdb3482,bay
+yrdb3483,dam
+yrdb3484,palace
+yrdb3485,estuary
+yrdb3486,village
+yrdb3487,ridge
+yrdb3488,county
+yrdb3489,bureau
+yrdb3490,not specified
+yrdb3491,not specified
+yrdb3492,not specified
+yrdb3493,customs house
+yrdb3494,not specified
+yrdb3496,encampment
+yrdb3497,walled settlement
+yrdb3498,town
+yrdb3499,dike
+yrdb3500,customs house
+yrdb3501,post station
+yrdb3502,dam
+yrdb3503,not specified
+yrdb3504,not specified
+yrdb3505,fortress
+yrdb3506,river valley
+yrdb3507,neighborhood
+yrdb3508,county
+yrdb3509,dike
+yrdb3510,walled settlement
+yrdb3511,fortress
+yrdb3512,not specified
+yrdb3513,not specified
+yrdb3514,mountain
+yrdb3515,stockade
+yrdb3516,estuary
+yrdb3517,fortress
+yrdb3518,not specified
+yrdb3519,park
+yrdb3520,not specified
+yrdb3521,mountain
+yrdb3522,not specified
+yrdb3523,town
+yrdb3525,mountain
+yrdb3526,customs house
+yrdb3527,estuary
+yrdb3528,palace
+yrdb3529,county
+yrdb3530,state
+yrdb3531,stockade
+yrdb3532,department
+yrdb3534,county
+yrdb3535,town
+yrdb3536,stockade
+yrdb3538,town
+yrdb3539,town
+yrdb3541,fortress
+yrdb3542,not specified
+yrdb3543,walled settlement
+yrdb3544,military post
+yrdb3545,estuary
+yrdb3546,not specified
+yrdb3547,walled settlement
+yrdb3548,customs house
+yrdb3549,mountain
+yrdb3550,not specified
+yrdb3552,town
+yrdb3553,walled settlement
+yrdb3555,walled settlement
+yrdb3556,post station
+yrdb3557,estuary
+yrdb3558,temple
+yrdb3561,encampment
+yrdb3562,fortress
+yrdb3563,town
+yrdb3564,town
+yrdb3565,town
+yrdb3566,town
+yrdb3567,town
+yrdb3568,fortress
+yrdb3569,neighborhood
+yrdb3570,walled settlement
+yrdb3571,fortress
+yrdb3572,post station
+yrdb3573,post station
+yrdb3574,fortress
+yrdb3577,not specified
+yrdb3578,dike
+yrdb3579,embarkment
+yrdb3580,commandery
+yrdb3581,county
+yrdb3584,county
+yrdb3585,community
+yrdb3586,county
+yrdb3587,county
+yrdb3588,county
+yrdb3589,county
+yrdb3590,county
+yrdb3591,county
+yrdb3593,county
+yrdb3594,bureau
+yrdb3596,community
+yrdb3597,county
+yrdb3598,commandery
+yrdb3600,bay
+yrdb3601,ditch
+yrdb3602,not specified
+yrdb3603,not specified
+yrdb3604,bureau
+yrdb3605,county
+yrdb3606,county
+yrdb3607,dike
+yrdb3608,department
+yrdb3610,commandery
+yrdb3611,department
+yrdb3612,county
+yrdb3613,department
+yrdb3614,department
+yrdb3615,department
+yrdb3617,not specified
+yrdb3619,commandery
+yrdb3620,not specified
+yrdb3622,river
+yrdb3623,river
+yrdb3624,mountain
+yrdb3625,river
+yrdb3626,river
+yrdb3627,river
+yrdb3628,bay
+yrdb3629,mountain
+yrdb3630,fortress
+yrdb3631,not specified
+yrdb3632,mountain
+yrdb3633,community
+yrdb3634,not specified
+yrdb3635,ditch
+yrdb3636,not specified
+yrdb3637,not specified
+yrdb3638,county
+yrdb3639,not specified
+yrdb3640,manor
+yrdb3641,estuary
+yrdb3642,not specified
+yrdb3643,not specified
+yrdb3644,not specified
+yrdb3645,county
+yrdb3646,fortress
+yrdb3647,town
+yrdb3649,county
+yrdb3651,county
+yrdb3653,county
+yrdb3654,not specified
+yrdb3655,not specified
+yrdb3656,customs house
+yrdb3657,not specified
+yrdb3658,not specified
+yrdb3659,not specified
+yrdb3661,township
+yrdb3662,not specified
+yrdb3664,not specified
+yrdb3665,not specified
+yrdb3666,not specified
+yrdb3667,not specified
+yrdb3668,not specified
+yrdb3669,not specified
+yrdb3670,not specified
+yrdb3671,not specified
+yrdb3672,not specified
+yrdb3673,not specified
+yrdb3674,not specified
+yrdb3675,not specified
+yrdb3676,not specified
+yrdb3677,not specified
+yrdb3678,walled settlement
+yrdb3679,not specified
+yrdb3680,not specified
+yrdb3681,walled settlement
+yrdb3682,walled settlement
+yrdb3683,walled settlement
+yrdb3684,neighborhood
+yrdb3685,river
+yrdb3686,not specified
+yrdb3687,walled settlement
+yrdb3688,stage station
+yrdb3689,walled settlement
+yrdb3690,not specified
+yrdb3692,not specified
+yrdb3693,not specified
+yrdb3694,not specified
+yrdb3695,not specified
+yrdb3696,walled settlement
+yrdb3697,fortress
+yrdb3698,customs house
+yrdb3699,ridge
+yrdb3700,customs house
+yrdb3701,customs house
+yrdb3702,stockade
+yrdb3703,encampment
+yrdb3704,town
+yrdb3705,customs house
+yrdb3706,not specified
+yrdb3707,not specified
+yrdb3708,not specified
+yrdb3710,customs house
+yrdb3711,military post
+yrdb3712,ford
+yrdb3713,military post
+yrdb3714,stockade
+yrdb3715,military post
+yrdb3716,village
+yrdb3717,post station
+yrdb3718,stockade
+yrdb3719,not specified
+yrdb3720,not specified
+yrdb3721,town
+yrdb3722,post station
+yrdb3723,stage station
+yrdb3724,town
+yrdb3725,post station
+yrdb3726,not specified
+yrdb3727,bay
+yrdb3728,town
+yrdb3729,town
+yrdb3730,estuary
+yrdb3731,town
+yrdb3732,customs house
+yrdb3733,manor
+yrdb3734,walled settlement
+yrdb3735,
+yrdb3736,post station
+yrdb3737,post station
+yrdb3738,walled settlement
+yrdb3739,not specified
+yrdb3740,mountain
+yrdb3741,fortress
+yrdb3742,stage station
+yrdb3743,customs house
+yrdb3744,fortress
+yrdb3745,customs house
+yrdb3746,fortress
+yrdb3747,town
+yrdb3748,ditch
+yrdb3749,not specified
+yrdb3750,stockade
+yrdb3751,stockade
+yrdb3752,fortress
+yrdb3753,walled settlement
+yrdb3754,fortress
+yrdb3755,town
+yrdb3756,town
+yrdb3757,fortress
+yrdb3758,town
+yrdb3759,town
+yrdb3760,town
+yrdb3761,town
+yrdb3762,town
+yrdb3763,town
+yrdb3764,town
+yrdb3765,town
+yrdb3766,village
+yrdb3767,not specified
+yrdb3768,township
+yrdb3769,town
+yrdb3770,town
+yrdb3771,town
+yrdb3772,fortress
+yrdb3773,town
+yrdb3774,stage station
+yrdb3775,town
+yrdb3776,stockade
+yrdb3777,town
+yrdb3778,town
+yrdb3779,not specified
+yrdb3780,not specified
+yrdb3781,river
+yrdb3782,not specified
+yrdb3783,not specified
+yrdb3784,not specified
+yrdb3785,not specified
+yrdb3786,not specified
+yrdb3787,post station
+yrdb3788,community
+yrdb3789,community
+yrdb3790,post station
+yrdb3791,post station
+yrdb3792,post station
+yrdb3793,town
+yrdb3794,post station
+yrdb3795,town
+yrdb3796,not specified
+yrdb3797,fortress
+yrdb3798,town
