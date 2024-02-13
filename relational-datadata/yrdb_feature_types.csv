@@ -29,19 +29,19 @@ ch_title,en_title,ref_num,feature_class
 苑,park,8220,habitations
 寺,temple,5534,habitations
 莊,manor,not mentioned,habitations
-山,mountain,4952,natural feature
-河,river,not mentioned,natural feature
-口,estuary,not mentioned,natural feature
-津,ford,not mentioned,natural feature
-灘,mudflat,not mentioned,natural feature
-水,stream,not mentioned,natural feature
-坪,flat,not mentioned,natural feature
-丘,mound,not mentioned,natural feature
-灣,bay,not mentioned,natural feature
-溝,ditch,not mentioned,natural feature
-谷,river valley,not mentioned,natural feature
-川,creek,not mentioned,natural feature
-嶺,ridge,not mentioned,natural feature
+山,mountain,4952,natural features
+河,river,not mentioned,natural features
+口,estuary,not mentioned,natural features
+津,ford,not mentioned,natural features
+灘,mudflat,not mentioned,natural features
+水,stream,not mentioned,natural features
+坪,flat,not mentioned,natural features
+丘,mound,not mentioned,natural features
+灣,bay,not mentioned,natural features
+溝,ditch,not mentioned,natural features
+谷,river valley,not mentioned,natural features
+川,creek,not mentioned,natural features
+嶺,ridge,not mentioned,natural features
 堤,dike,not mentioned,water control management
 埽,embarkment,not mentioned,water control management
 壩,dam,not mentioned,water control management
