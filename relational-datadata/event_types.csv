@@ -1,0 +1,21 @@
+event_type_id,zh_ch_title,en_title,en_type,evc_id,description
+evtype_1,溢,yi,Flood,evc_1,"Any time there is a zhang 漲(raised water level) or yan 淹, that's a flood.   Or, any time there's a daoguan 倒灌 (water going backwards into a city or neighborhood, that's a flood)."
+evtype_2,決,jue,Breach,evc_1,Any time there is a beng 崩(sudden opening) but not a shanbeng 山崩 (which is a mountainslide).  Kui潰 is a synonym of jue 決.  The difference between yi 溢and jue 決is that jue is a single location (a dike opens) but yi (flood) is a region.
+evtype_3,旱,han,Drought,evc_1,"Two synonyms:  1) ganhe 乾涸or he 涸, 2) ku 枯."
+evtype_4,災,zai,Disaster,evc_1,"Rainstorm, earthquake, landslide, locusts (rainstorm plus flood is a ""disaster"" plus ""flood."""
+evtype_5,毀,hui,Intentional Breach,evc_1,"Usually during wartime, an intentional dike breach;  or private individuals breaching a dike without approval -- either because of bad engineering or an unapproved breach for irrigation."
+evtype_6,險,xian,Risky situation,evc_1,Shixiu 失修 is used for poorly maintained waterworks.  That causes a xian 險 situation:  damaged or poorly maintained infrastucture that causes a risk.
+evtype_7,兆,zhao,Omen,evc_1,Water is clear (or sometimes dirty)
+evtype_8,徙,xi,Course change,evc_1,"Same word as duo 奪:  one river ""grabs"" another course.  A fen 分-- a river dividing in two -- is also a course change.  He 閤-- two rivers come together as one -- is also a course change.  This could be caused by either human or natural reasons."
+evtype_9,絕,jue,Extinction (river dries up),evc_1,Synonym is duanliu 斷流.  Usually happens along with a drought.
+evtype_10,塞,sai,Blockage (from too much silt),evc_1,Usually happens with the word yu 淤 for silt.  Sometimes yusai 淤塞 together is a compound.  Yuzu 淤阻 is also a compound.  Se 澀 is another synonym.
+evtype_11,議,yi,Proposals and Discussion,evc_2,"Yilun 議論is a discussion.  Jianyi 建議 is a proposal.  Zouyi 奏議 is a memorial with a proposal.  If a zouyi is approved, it's yi 議and also zhi 治(management).  If not, it's yi only.  Publishing of a book or essay (any literary text) about the river is also a kind of yi."
+evtype_12,遷,qian,Settlement Relocation,evc_2,A settlement is relocated OR extinguished or disappears.  Two words for being missing:  pi 圮or mo 沒(this is not that common).  Movement of refugeess (zaimin 災民) is also qian.  Qian is any act of people giving up their residence.
+evtype_13,放,fang,Dam/Sluice Opening,evc_2,Kaiba 開壩 or qiba 啓壩 two other words for dam opening.  Most of these occur in Qing.
+evtype_14,疏,shu,Dredging,evc_2,"Usually goes together with sai 塞-- blockage.  Synonym is jun 浚, or fangyu 放淤(removal of silt).  Shu 疏 is always about silt, otherwise it's fang 放.  "
+evtype_15,助,zhu,Using water for a purpose,evc_2,For agriculture and transportation.  Reflects hui 毀 in the water conditions list.  Private action (which would be zhi 治 if it were government action) goes with zhu 助.
+evtype_16,治,zhi,Management,evc_2,"Very huge and general.  1) Any kind of policy action or policy enforcement:  emperor enforced a law, a budget is requistions, appointment of a supervisor, tax revenue, making an imperial tour.  Emperor issues an edict (zhao 詔).  2) doing something new to the infrasructure system.  Similar to jian:  opening a canal, building a dike, repairing human damage.  But zhi 治 is more general.  But not an emergency repair.  Sometimes zhi fail and cause more flooding.  ONLY official action and policy."
+evtype_17,修,xiu,Repair of Structures,evc_2,Synonym is fujian 復建(rebuilding).  Also used for rebuilding a dike or embankment.  Anything to make the river go back to an old course (gudao 故道 or jiudao 舊道).
+evtype_18,救,jiu,Emergency Repair,evc_2,"Goes with yi 溢 (flood), jue 決 (breach), xi 徙, sai 塞, hui 毀, zai 災, xian 險.  Ji 即or xuan 鏇(immediately) mean that this is a jiu, not a xiu.  Sai 塞as a verb is an emergency blockage of a breach, and it is a jiu 救."
+evtype_19,建,jian,New Construction,evc_2,Dikes (di 堤) or ba (dam 壩).  Synonym is zhu 築.  Opening a canal is also a kind of jian 建(but also a zhi 治)
+evtype_20,探,tan,Fieldtrip/survey,evc_2,Only in late imperial times with modern science and engineering.
