@@ -1,4 +1,4 @@
-evtp_id,yrdb_id,event,attestation
+evtp_id,place_id,event,attestation
 evtp_1,yrdb2,ev_858,ds_1019
 evtp_2,yrdb10,ev_752,ds_1419
 evtp_3,yrdb11,ev_1155,ds_296
